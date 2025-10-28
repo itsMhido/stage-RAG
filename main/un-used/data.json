@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "attest_int_001",
+    "source": "attestation_interets.txt",
+    "type": "bank_attestation",
+    "language": "fr",
+    "chunk_id": "attest_int_001_1",
+    "text": "CREDIT AGRICOLE C.L.C.A. AKNOUL 106 - ATTESTATION DES INTERETS. Signée par le Directeur et Gestionnaire des opérations Guichet.",
+    "metadata": {
+      "id": "attest_int_001",
+      "source": "attestation_interets.txt",
+      "language": "fr",
+      "type": "bank_attestation",
+      "content": {
+        "text": "القرض الفلاحي\nCREDIT AGRICOLE\nC.L.C.A. AKNOUL 106\n\nATTESTATION DES INTERETS\nNous soussignés Mr   Mr \nRespectivement Directeur et Gestionnaire des opérations Guichet de la Caisse local de Crédit\nAgricole de AKNOUL attestons par la présente que MR :\nTitulaire du compte bancaire N° 01060150! \"*\"\" a bénéficié auprès de notre banque d'un\ncrédit logement de 262.500.00 dhs (deux cent soixante-deux mille cinq cent dirhams) au taux\nde 4.35% sux une durée de 180 mois.\n\nLes intérêts prélevés pour ces crédits durant l'année 2024 sont comme suit :\n19000002711 8579.73 \nCette attestation est délivrée à l'intéressé pour servir et valoir ce que de droit.\n\nFait à Aknoul le 26/03/2025 à 12h 48 mns.\nGestionnaire des opérations Guichet\nLE DIRECTEUR\n\nOussama HAMMOUCH",
+        "structured_data": {
+          "institution": "CREDIT AGRICOLE C.L.C.A. AKNOUL 106",
+          "document_type": "ATTESTATION DES INTERETS",
+          "account_holder": "MR",
+          "account_number": "01060150",
+          "loan_type": "crédit logement",
+          "loan_amount": "262500.00 DHS",
+          "interest_rate": "4.35%",
+          "loan_duration": "180 mois",
+          "yearly_interest": "8579.73 DHS",
+          "reference_number": "19000002711",
+          "issue_date": "26/03/2025",
+          "issue_time": "12:48",
+          "signatories": [
+            "Gestionnaire des opérations Guichet",
+            "LE DIRECTEUR",
+            "Oussama HAMMOUCH"
+          ]
+        }
+      },
+      "metadata": {
+        "date_issued": "2025-03-26",
+        "issuing_authority": "Caisse locale de Crédit Agricole de AKNOUL",
+        "relevant_to": [
+          "finance",
+          "loans",
+          "banking"
+        ],
+        "currency": "DHS"
+      }
+    }
+  },
+  {
+    "id": "attest_int_001",
+    "source": "attestation_interets.txt",
+    "type": "bank_attestation",
+    "language": "fr",
+    "chunk_id": "attest_int_001_2",
+    "text": "MR titulaire du compte N°01060150 a obtenu un crédit logement de 262,500 DHS à 4.35% sur 180 mois.",
+    "metadata": {
+      "id": "attest_int_001",
+      "source": "attestation_interets.txt",
+      "language": "fr",
+      "type": "bank_attestation",
+      "content": {
+        "text": "القرض الفلاحي\nCREDIT AGRICOLE\nC.L.C.A. AKNOUL 106\n\nATTESTATION DES INTERETS\nNous soussignés Mr   Mr \nRespectivement Directeur et Gestionnaire des opérations Guichet de la Caisse local de Crédit\nAgricole de AKNOUL attestons par la présente que MR :\nTitulaire du compte bancaire N° 01060150! \"*\"\" a bénéficié auprès de notre banque d'un\ncrédit logement de 262.500.00 dhs (deux cent soixante-deux mille cinq cent dirhams) au taux\nde 4.35% sux une durée de 180 mois.\n\nLes intérêts prélevés pour ces crédits durant l'année 2024 sont comme suit :\n19000002711 8579.73 \nCette attestation est délivrée à l'intéressé pour servir et valoir ce que de droit.\n\nFait à Aknoul le 26/03/2025 à 12h 48 mns.\nGestionnaire des opérations Guichet\nLE DIRECTEUR\n\nOussama HAMMOUCH",
+        "structured_data": {
+          "institution": "CREDIT AGRICOLE C.L.C.A. AKNOUL 106",
+          "document_type": "ATTESTATION DES INTERETS",
+          "account_holder": "MR",
+          "account_number": "01060150",
+          "loan_type": "crédit logement",
+          "loan_amount": "262500.00 DHS",
+          "interest_rate": "4.35%",
+          "loan_duration": "180 mois",
+          "yearly_interest": "8579.73 DHS",
+          "reference_number": "19000002711",
+          "issue_date": "26/03/2025",
+          "issue_time": "12:48",
+          "signatories": [
+            "Gestionnaire des opérations Guichet",
+            "LE DIRECTEUR",
+            "Oussama HAMMOUCH"
+          ]
+        }
+      },
+      "metadata": {
+        "date_issued": "2025-03-26",
+        "issuing_authority": "Caisse locale de Crédit Agricole de AKNOUL",
+        "relevant_to": [
+          "finance",
+          "loans",
+          "banking"
+        ],
+        "currency": "DHS"
+      }
+    }
+  },
+  {
+    "id": "attest_int_001",
+    "source": "attestation_interets.txt",
+    "type": "bank_attestation",
+    "language": "fr",
+    "chunk_id": "attest_int_001_3",
+    "text": "Intérêts 2024: 8579.73 DHS (Réf: 19000002711). Document délivré le 26/03/2025 à Aknoul.",
+    "metadata": {
+      "id": "attest_int_001",
+      "source": "attestation_interets.txt",
+      "language": "fr",
+      "type": "bank_attestation",
+      "content": {
+        "text": "القرض الفلاحي\nCREDIT AGRICOLE\nC.L.C.A. AKNOUL 106\n\nATTESTATION DES INTERETS\nNous soussignés Mr   Mr \nRespectivement Directeur et Gestionnaire des opérations Guichet de la Caisse local de Crédit\nAgricole de AKNOUL attestons par la présente que MR :\nTitulaire du compte bancaire N° 01060150! \"*\"\" a bénéficié auprès de notre banque d'un\ncrédit logement de 262.500.00 dhs (deux cent soixante-deux mille cinq cent dirhams) au taux\nde 4.35% sux une durée de 180 mois.\n\nLes intérêts prélevés pour ces crédits durant l'année 2024 sont comme suit :\n19000002711 8579.73 \nCette attestation est délivrée à l'intéressé pour servir et valoir ce que de droit.\n\nFait à Aknoul le 26/03/2025 à 12h 48 mns.\nGestionnaire des opérations Guichet\nLE DIRECTEUR\n\nOussama HAMMOUCH",
+        "structured_data": {
+          "institution": "CREDIT AGRICOLE C.L.C.A. AKNOUL 106",
+          "document_type": "ATTESTATION DES INTERETS",
+          "account_holder": "MR",
+          "account_number": "01060150",
+          "loan_type": "crédit logement",
+          "loan_amount": "262500.00 DHS",
+          "interest_rate": "4.35%",
+          "loan_duration": "180 mois",
+          "yearly_interest": "8579.73 DHS",
+          "reference_number": "19000002711",
+          "issue_date": "26/03/2025",
+          "issue_time": "12:48",
+          "signatories": [
+            "Gestionnaire des opérations Guichet",
+            "LE DIRECTEUR",
+            "Oussama HAMMOUCH"
+          ]
+        }
+      },
+      "metadata": {
+        "date_issued": "2025-03-26",
+        "issuing_authority": "Caisse locale de Crédit Agricole de AKNOUL",
+        "relevant_to": [
+          "finance",
+          "loans",
+          "banking"
+        ],
+        "currency": "DHS"
+      }
+    }
+  },
+  {
+    "id": "cert_arab_001",
+    "source": "certificat_scolarite_arabe.txt",
+    "type": "education_certificate",
+    "language": "ar",
+    "chunk_id": "cert_arab_001_1",
+    "text": "شهادة مدرسية صادرة عن مدرسة أحمد بوكماخ التابعة لمديرية عمالة سلا، الأكاديمية الجهوية للرباط - سلا - القنيطرة",
+    "metadata": {
+      "id": "cert_arab_001",
+      "source": "certificat_scolarite_arabe.txt",
+      "language": "ar",
+      "type": "education_certificate",
+      "content": {
+        "text": "وزارة التربية الوطنية\nوالتعليم الأولي والرياضة\nالأكاديمية الجهوية للتربية والتكوين\nلجهة : الرباط - سلا - القنيطرة\nالمديرية الإقليمية : عمالة سلا\n\nالجماعة : باب المريسة (المقاطعة) \nالمؤسسة : مدرسة أحمد بوكماخ\n\nهاتف : 0600005482\nشهادة مدرسية رقم : 2024/2025/16\nالمولود(ة) في : الرباط بتاريخ : 09-10-2014\nرمز التلميذ(ة) : \n\nيتابع دراسته(ها) بهذه المؤسسة بالمستوى الثاني ابتدائي عام (2024/2025)\n\nملاحظات : سُلّمت له(ها) هذه الشهادة من برنامج \"مسار\" لغرض إداري\n\nحرر ب: 09/04/2025 \nخاتم وتوقيع الحارس العام / الناظر المسؤول عن المعلومات الواردة في الشهادة\nامضاء :محمد لهنيدة",
+        "structured_data": {
+          "ministry": "وزارة التربية الوطنية والتعليم الأولي والرياضة",
+          "academy": "الأكاديمية الجهوية للتربية والتكوين لجهة الرباط - سلا - القنيطرة",
+          "directorate": "المديرية الإقليمية : عمالة سلا",
+          "municipality": "باب المريسة (المقاطعة)",
+          "institution": "مدرسة أحمد بوكماخ",
+          "phone": "0600005482",
+          "certificate_number": "2024/2025/16",
+          "birth_place": "الرباط",
+          "birth_date": "09-10-2014",
+          "academic_level": "المستوى الثاني ابتدائي",
+          "academic_year": "2024/2025",
+          "purpose": "إداري",
+          "issuance_date": "09/04/2025",
+          "signatory": "محمد لهنيدة",
+          "signatory_title": "الحارس العام / الناظر المسؤول عن المعلومات الواردة في الشهادة",
+          "issuing_program": "مسار"
+        }
+      },
+      "metadata": {
+        "date_issued": "2025-04-09",
+        "issuing_authority": "مدرسة أحمد بوكماخ",
+        "relevant_to": [
+          "education",
+          "student_records",
+          "primary_education"
+        ],
+        "document_purpose": "administrative"
+      }
+    }
+  },
+  {
+    "id": "cert_arab_001",
+    "source": "certificat_scolarite_arabe.txt",
+    "type": "education_certificate",
+    "language": "ar",
+    "chunk_id": "cert_arab_001_2",
+    "text": "الطالب/ة مواليد 09-10-2014 بالرباط، يتابع الدراسة في المستوى الثاني ابتدائي للسنة الدراسية 2024/2025",
+    "metadata": {
+      "id": "cert_arab_001",
+      "source": "certificat_scolarite_arabe.txt",
+      "language": "ar",
+      "type": "education_certificate",
+      "content": {
+        "text": "وزارة التربية الوطنية\nوالتعليم الأولي والرياضة\nالأكاديمية الجهوية للتربية والتكوين\nلجهة : الرباط - سلا - القنيطرة\nالمديرية الإقليمية : عمالة سلا\n\nالجماعة : باب المريسة (المقاطعة) \nالمؤسسة : مدرسة أحمد بوكماخ\n\nهاتف : 0600005482\nشهادة مدرسية رقم : 2024/2025/16\nالمولود(ة) في : الرباط بتاريخ : 09-10-2014\nرمز التلميذ(ة) : \n\nيتابع دراسته(ها) بهذه المؤسسة بالمستوى الثاني ابتدائي عام (2024/2025)\n\nملاحظات : سُلّمت له(ها) هذه الشهادة من برنامج \"مسار\" لغرض إداري\n\nحرر ب: 09/04/2025 \nخاتم وتوقيع الحارس العام / الناظر المسؤول عن المعلومات الواردة في الشهادة\nامضاء :محمد لهنيدة",
+        "structured_data": {
+          "ministry": "وزارة التربية الوطنية والتعليم الأولي والرياضة",
+          "academy": "الأكاديمية الجهوية للتربية والتكوين لجهة الرباط - سلا - القنيطرة",
+          "directorate": "المديرية الإقليمية : عمالة سلا",
+          "municipality": "باب المريسة (المقاطعة)",
+          "institution": "مدرسة أحمد بوكماخ",
+          "phone": "0600005482",
+          "certificate_number": "2024/2025/16",
+          "birth_place": "الرباط",
+          "birth_date": "09-10-2014",
+          "academic_level": "المستوى الثاني ابتدائي",
+          "academic_year": "2024/2025",
+          "purpose": "إداري",
+          "issuance_date": "09/04/2025",
+          "signatory": "محمد لهنيدة",
+          "signatory_title": "الحارس العام / الناظر المسؤول عن المعلومات الواردة في الشهادة",
+          "issuing_program": "مسار"
+        }
+      },
+      "metadata": {
+        "date_issued": "2025-04-09",
+        "issuing_authority": "مدرسة أحمد بوكماخ",
+        "relevant_to": [
+          "education",
+          "student_records",
+          "primary_education"
+        ],
+        "document_purpose": "administrative"
+      }
+    }
+  },
+  {
+    "id": "cert_arab_001",
+    "source": "certificat_scolarite_arabe.txt",
+    "type": "education_certificate",
+    "language": "ar",
+    "chunk_id": "cert_arab_001_3",
+    "text": "شهادة رقم 2024/2025/16 صادرة عبر برنامج مسار بتاريخ 09/04/2025 موقعة من الحارس العام محمد لهنيدة",
+    "metadata": {
+      "id": "cert_arab_001",
+      "source": "certificat_scolarite_arabe.txt",
+      "language": "ar",
+      "type": "education_certificate",
+      "content": {
+        "text": "وزارة التربية الوطنية\nوالتعليم الأولي والرياضة\nالأكاديمية الجهوية للتربية والتكوين\nلجهة : الرباط - سلا - القنيطرة\nالمديرية الإقليمية : عمالة سلا\n\nالجماعة : باب المريسة (المقاطعة) \nالمؤسسة : مدرسة أحمد بوكماخ\n\nهاتف : 0600005482\nشهادة مدرسية رقم : 2024/2025/16\nالمولود(ة) في : الرباط بتاريخ : 09-10-2014\nرمز التلميذ(ة) : \n\nيتابع دراسته(ها) بهذه المؤسسة بالمستوى الثاني ابتدائي عام (2024/2025)\n\nملاحظات : سُلّمت له(ها) هذه الشهادة من برنامج \"مسار\" لغرض إداري\n\nحرر ب: 09/04/2025 \nخاتم وتوقيع الحارس العام / الناظر المسؤول عن المعلومات الواردة في الشهادة\nامضاء :محمد لهنيدة",
+        "structured_data": {
+          "ministry": "وزارة التربية الوطنية والتعليم الأولي والرياضة",
+          "academy": "الأكاديمية الجهوية للتربية والتكوين لجهة الرباط - سلا - القنيطرة",
+          "directorate": "المديرية الإقليمية : عمالة سلا",
+          "municipality": "باب المريسة (المقاطعة)",
+          "institution": "مدرسة أحمد بوكماخ",
+          "phone": "0600005482",
+          "certificate_number": "2024/2025/16",
+          "birth_place": "الرباط",
+          "birth_date": "09-10-2014",
+          "academic_level": "المستوى الثاني ابتدائي",
+          "academic_year": "2024/2025",
+          "purpose": "إداري",
+          "issuance_date": "09/04/2025",
+          "signatory": "محمد لهنيدة",
+          "signatory_title": "الحارس العام / الناظر المسؤول عن المعلومات الواردة في الشهادة",
+          "issuing_program": "مسار"
+        }
+      },
+      "metadata": {
+        "date_issued": "2025-04-09",
+        "issuing_authority": "مدرسة أحمد بوكماخ",
+        "relevant_to": [
+          "education",
+          "student_records",
+          "primary_education"
+        ],
+        "document_purpose": "administrative"
+      }
+    }
+  },
+  {
+    "id": "cert_fr_002",
+    "source": "certificat_scolarite_Rayan.txt",
+    "type": "education_certificate",
+    "language": "fr",
+    "chunk_id": "cert_fr_002_1",
+    "text": "Certificat de scolarité 2024/2025/43 émis par l'établissement YASSAMINE CALIFORNIE (Académie Casablanca-Settat, Arrondissement Ain Chock)",
+    "metadata": {
+      "id": "cert_fr_002",
+      "source": "certificat_scolarite_Rayan.txt",
+      "language": "fr",
+      "type": "education_certificate",
+      "content": {
+        "text": "Royaume du Maroc\nMinistère de l'Éducation Nationale, du Préscolaire et des Sports\nAcadémie Casablanca-Settat\n\nDirection provinciale\nPréfecture d'Arrondissement Ain Chock\n\nAin Chock (Arrondissement)\nYASSAMINE\nCALIFORNIE\n\nCertificat de scolarité : 2024/2025/43\n\nMonsieur le Directeur certifie que :\nL'élève porteur du code n° …\nPrénom NOM\nNé(e) le : 16/04/2007 à CASABLANCA\nDeuxième langue : Langue anglaise\n\nPoursuit ses études dans cet établissement au niveau 1ère Année Baccalauréat Sciences Économiques et Gestion (2024/2025)\n\nRemarques : Ce certificat lui a été délivré par le programme Massar à des fins administratives uniquement.\n\nFait à Casablanca, le 03/04/2025\n\nCachet et signature du surveillant général / censeur responsable des informations\nCachet et signature du directeur de l'établissement",
+        "structured_data": {
+          "country": "Royaume du Maroc",
+          "ministry": "Ministère de l'Éducation Nationale, du Préscolaire et des Sports",
+          "academy": "Académie Casablanca-Settat",
+          "direction": "Direction provinciale - Préfecture d'Arrondissement Ain Chock",
+          "arrondissement": "Ain Chock",
+          "institution": "YASSAMINE CALIFORNIE",
+          "certificate_number": "2024/2025/43",
+          "student": {
+            "birth_date": "16/04/2007",
+            "birth_place": "CASABLANCA",
+            "second_language": "Langue anglaise"
+          },
+          "academic_info": {
+            "level": "1ère Année Baccalauréat",
+            "specialty": "Sciences Économiques et Gestion",
+            "academic_year": "2024/2025"
+          },
+          "issuance": {
+            "program": "Massar",
+            "purpose": "administratives uniquement",
+            "date": "03/04/2025",
+            "place": "Casablanca",
+            "signatories": [
+              "surveillant général / censeur responsable des informations",
+              "directeur de l'établissement"
+            ]
+          }
+        }
+      },
+      "metadata": {
+        "date_issued": "2025-04-03",
+        "issuing_authority": "YASSAMINE CALIFORNIE",
+        "education_level": "secondary",
+        "relevant_to": [
+          "education",
+          "baccalaureat",
+          "student_records"
+        ],
+        "document_purpose": "administrative"
+      }
+    }
+  },
+  {
+    "id": "cert_fr_002",
+    "source": "certificat_scolarite_Rayan.txt",
+    "type": "education_certificate",
+    "language": "fr",
+    "chunk_id": "cert_fr_002_2",
+    "text": "Élève né(e) le 16/04/2007 à Casablanca, étudiant en 1ère Année Baccalauréat Sciences Économiques et Gestion, 2ème langue: Anglais",
+    "metadata": {
+      "id": "cert_fr_002",
+      "source": "certificat_scolarite_Rayan.txt",
+      "language": "fr",
+      "type": "education_certificate",
+      "content": {
+        "text": "Royaume du Maroc\nMinistère de l'Éducation Nationale, du Préscolaire et des Sports\nAcadémie Casablanca-Settat\n\nDirection provinciale\nPréfecture d'Arrondissement Ain Chock\n\nAin Chock (Arrondissement)\nYASSAMINE\nCALIFORNIE\n\nCertificat de scolarité : 2024/2025/43\n\nMonsieur le Directeur certifie que :\nL'élève porteur du code n° …\nPrénom NOM\nNé(e) le : 16/04/2007 à CASABLANCA\nDeuxième langue : Langue anglaise\n\nPoursuit ses études dans cet établissement au niveau 1ère Année Baccalauréat Sciences Économiques et Gestion (2024/2025)\n\nRemarques : Ce certificat lui a été délivré par le programme Massar à des fins administratives uniquement.\n\nFait à Casablanca, le 03/04/2025\n\nCachet et signature du surveillant général / censeur responsable des informations\nCachet et signature du directeur de l'établissement",
+        "structured_data": {
+          "country": "Royaume du Maroc",
+          "ministry": "Ministère de l'Éducation Nationale, du Préscolaire et des Sports",
+          "academy": "Académie Casablanca-Settat",
+          "direction": "Direction provinciale - Préfecture d'Arrondissement Ain Chock",
+          "arrondissement": "Ain Chock",
+          "institution": "YASSAMINE CALIFORNIE",
+          "certificate_number": "2024/2025/43",
+          "student": {
+            "birth_date": "16/04/2007",
+            "birth_place": "CASABLANCA",
+            "second_language": "Langue anglaise"
+          },
+          "academic_info": {
+            "level": "1ère Année Baccalauréat",
+            "specialty": "Sciences Économiques et Gestion",
+            "academic_year": "2024/2025"
+          },
+          "issuance": {
+            "program": "Massar",
+            "purpose": "administratives uniquement",
+            "date": "03/04/2025",
+            "place": "Casablanca",
+            "signatories": [
+              "surveillant général / censeur responsable des informations",
+              "directeur de l'établissement"
+            ]
+          }
+        }
+      },
+      "metadata": {
+        "date_issued": "2025-04-03",
+        "issuing_authority": "YASSAMINE CALIFORNIE",
+        "education_level": "secondary",
+        "relevant_to": [
+          "education",
+          "baccalaureat",
+          "student_records"
+        ],
+        "document_purpose": "administrative"
+      }
+    }
+  },
+  {
+    "id": "cert_fr_002",
+    "source": "certificat_scolarite_Rayan.txt",
+    "type": "education_certificate",
+    "language": "fr",
+    "chunk_id": "cert_fr_002_3",
+    "text": "Certificat délivré via programme Massar à des fins administratives, signé à Casablanca le 03/04/2025 par le surveillant général et directeur",
+    "metadata": {
+      "id": "cert_fr_002",
+      "source": "certificat_scolarite_Rayan.txt",
+      "language": "fr",
+      "type": "education_certificate",
+      "content": {
+        "text": "Royaume du Maroc\nMinistère de l'Éducation Nationale, du Préscolaire et des Sports\nAcadémie Casablanca-Settat\n\nDirection provinciale\nPréfecture d'Arrondissement Ain Chock\n\nAin Chock (Arrondissement)\nYASSAMINE\nCALIFORNIE\n\nCertificat de scolarité : 2024/2025/43\n\nMonsieur le Directeur certifie que :\nL'élève porteur du code n° …\nPrénom NOM\nNé(e) le : 16/04/2007 à CASABLANCA\nDeuxième langue : Langue anglaise\n\nPoursuit ses études dans cet établissement au niveau 1ère Année Baccalauréat Sciences Économiques et Gestion (2024/2025)\n\nRemarques : Ce certificat lui a été délivré par le programme Massar à des fins administratives uniquement.\n\nFait à Casablanca, le 03/04/2025\n\nCachet et signature du surveillant général / censeur responsable des informations\nCachet et signature du directeur de l'établissement",
+        "structured_data": {
+          "country": "Royaume du Maroc",
+          "ministry": "Ministère de l'Éducation Nationale, du Préscolaire et des Sports",
+          "academy": "Académie Casablanca-Settat",
+          "direction": "Direction provinciale - Préfecture d'Arrondissement Ain Chock",
+          "arrondissement": "Ain Chock",
+          "institution": "YASSAMINE CALIFORNIE",
+          "certificate_number": "2024/2025/43",
+          "student": {
+            "birth_date": "16/04/2007",
+            "birth_place": "CASABLANCA",
+            "second_language": "Langue anglaise"
+          },
+          "academic_info": {
+            "level": "1ère Année Baccalauréat",
+            "specialty": "Sciences Économiques et Gestion",
+            "academic_year": "2024/2025"
+          },
+          "issuance": {
+            "program": "Massar",
+            "purpose": "administratives uniquement",
+            "date": "03/04/2025",
+            "place": "Casablanca",
+            "signatories": [
+              "surveillant général / censeur responsable des informations",
+              "directeur de l'établissement"
+            ]
+          }
+        }
+      },
+      "metadata": {
+        "date_issued": "2025-04-03",
+        "issuing_authority": "YASSAMINE CALIFORNIE",
+        "education_level": "secondary",
+        "relevant_to": [
+          "education",
+          "baccalaureat",
+          "student_records"
+        ],
+        "document_purpose": "administrative"
+      }
+    }
+  },
+  {
+    "id": "cnops_002",
+    "source": "cnops2.txt",
+    "type": "healthcare_reimbursement",
+    "language": "fr",
+    "chunk_id": "cnops_002_1",
+    "text": "Dossier 906377038 : Paiement par virement le 17/02/2028 pour frais de 2800.00 MAD (AMO: 1896.00, Mutuelle: 378.00, Total: 2274.00), traité en 113 jours",
+    "metadata": {
+      "id": "cnops_002",
+      "source": "cnops2.txt",
+      "language": "fr",
+      "type": "healthcare_reimbursement",
+      "content": {
+        "text": "PAYE\n\nUniquement les dossiers payés des derniers 6 mois sont affichés.\n\nNb.Dossier(s)     Date de réception     Date Paiement     Mode Paiement     Bénéficiaire     Frais engagés     AMO     Mutuelle     Total\n\n1                 -                     17/02/2028        Virement          -                2800.00           1896.00 378.00       2274.00 \n906377038         29/10/2024            Payé en: 113 jours                                   2800.00           18960.0 378.00       2274.00\n\n1                 -                     07/02/2025         Virement         -                200.00            128.00  24.00        152.00\n\n1                 -                     27/11/2024         Virement         -                681.70            313.57  54.42        367.99\n\n1                 -                     12/11/2024         Virement         -                471.00            240.00  35.00        275.00 \n\nApplication Moblle : SMART CNOPS - Assuré : > Télécharger",
+        "structured_data": {
+          "time_period": "6 derniers mois",
+          "records": [
+            {
+              "dossier_number": "906377038",
+              "received_date": "29/10/2024",
+              "payment_date": "17/02/2028",
+              "payment_method": "Virement",
+              "processing_time": "113 jours",
+              "amounts": {
+                "frais_engages": 2800.0,
+                "amo": 1896.0,
+                "mutuelle": 378.0,
+                "total": 2274.0
+              }
+            },
+            {
+              "payment_date": "07/02/2025",
+              "payment_method": "Virement",
+              "amounts": {
+                "frais_engages": 200.0,
+                "amo": 128.0,
+                "mutuelle": 24.0,
+                "total": 152.0
+              }
+            },
+            {
+              "payment_date": "27/11/2024",
+              "payment_method": "Virement",
+              "amounts": {
+                "frais_engages": 681.7,
+                "amo": 313.57,
+                "mutuelle": 54.42,
+                "total": 367.99
+              }
+            },
+            {
+              "payment_date": "12/11/2024",
+              "payment_method": "Virement",
+              "amounts": {
+                "frais_engages": 471.0,
+                "amo": 240.0,
+                "mutuelle": 35.0,
+                "total": 275.0
+              }
+            }
+          ],
+          "mobile_app": "SMART CNOPS"
+        }
+      },
+      "metadata": {
+        "organization": "CNOPS",
+        "record_type": "healthcare_payments",
+        "currency": "MAD",
+        "relevant_to": [
+          "healthcare",
+          "insurance",
+          "reimbursements"
+        ],
+        "time_coverage": {
+          "start_date": "2024-11-12",
+          "end_date": "2028-02-17"
+        }
+      }
+    }
+  },
+  {
+    "id": "cnops_002",
+    "source": "cnops2.txt",
+    "type": "healthcare_reimbursement",
+    "language": "fr",
+    "chunk_id": "cnops_002_2",
+    "text": "Transaction du 07/02/2025 : Remboursement de 200.00 MAD (AMO: 128.00, Mutuelle: 24.00, Total: 152.00) par virement",
+    "metadata": {
+      "id": "cnops_002",
+      "source": "cnops2.txt",
+      "language": "fr",
+      "type": "healthcare_reimbursement",
+      "content": {
+        "text": "PAYE\n\nUniquement les dossiers payés des derniers 6 mois sont affichés.\n\nNb.Dossier(s)     Date de réception     Date Paiement     Mode Paiement     Bénéficiaire     Frais engagés     AMO     Mutuelle     Total\n\n1                 -                     17/02/2028        Virement          -                2800.00           1896.00 378.00       2274.00 \n906377038         29/10/2024            Payé en: 113 jours                                   2800.00           18960.0 378.00       2274.00\n\n1                 -                     07/02/2025         Virement         -                200.00            128.00  24.00        152.00\n\n1                 -                     27/11/2024         Virement         -                681.70            313.57  54.42        367.99\n\n1                 -                     12/11/2024         Virement         -                471.00            240.00  35.00        275.00 \n\nApplication Moblle : SMART CNOPS - Assuré : > Télécharger",
+        "structured_data": {
+          "time_period": "6 derniers mois",
+          "records": [
+            {
+              "dossier_number": "906377038",
+              "received_date": "29/10/2024",
+              "payment_date": "17/02/2028",
+              "payment_method": "Virement",
+              "processing_time": "113 jours",
+              "amounts": {
+                "frais_engages": 2800.0,
+                "amo": 1896.0,
+                "mutuelle": 378.0,
+                "total": 2274.0
+              }
+            },
+            {
+              "payment_date": "07/02/2025",
+              "payment_method": "Virement",
+              "amounts": {
+                "frais_engages": 200.0,
+                "amo": 128.0,
+                "mutuelle": 24.0,
+                "total": 152.0
+              }
+            },
+            {
+              "payment_date": "27/11/2024",
+              "payment_method": "Virement",
+              "amounts": {
+                "frais_engages": 681.7,
+                "amo": 313.57,
+                "mutuelle": 54.42,
+                "total": 367.99
+              }
+            },
+            {
+              "payment_date": "12/11/2024",
+              "payment_method": "Virement",
+              "amounts": {
+                "frais_engages": 471.0,
+                "amo": 240.0,
+                "mutuelle": 35.0,
+                "total": 275.0
+              }
+            }
+          ],
+          "mobile_app": "SMART CNOPS"
+        }
+      },
+      "metadata": {
+        "organization": "CNOPS",
+        "record_type": "healthcare_payments",
+        "currency": "MAD",
+        "relevant_to": [
+          "healthcare",
+          "insurance",
+          "reimbursements"
+        ],
+        "time_coverage": {
+          "start_date": "2024-11-12",
+          "end_date": "2028-02-17"
+        }
+      }
+    }
+  },
+  {
+    "id": "cnops_002",
+    "source": "cnops2.txt",
+    "type": "healthcare_reimbursement",
+    "language": "fr",
+    "chunk_id": "cnops_002_3",
+    "text": "Paiements CNOPS via application SMART CNOPS - Dossiers des 6 derniers mois incluant transactions du 12/11/2024 au 17/02/2028",
+    "metadata": {
+      "id": "cnops_002",
+      "source": "cnops2.txt",
+      "language": "fr",
+      "type": "healthcare_reimbursement",
+      "content": {
+        "text": "PAYE\n\nUniquement les dossiers payés des derniers 6 mois sont affichés.\n\nNb.Dossier(s)     Date de réception     Date Paiement     Mode Paiement     Bénéficiaire     Frais engagés     AMO     Mutuelle     Total\n\n1                 -                     17/02/2028        Virement          -                2800.00           1896.00 378.00       2274.00 \n906377038         29/10/2024            Payé en: 113 jours                                   2800.00           18960.0 378.00       2274.00\n\n1                 -                     07/02/2025         Virement         -                200.00            128.00  24.00        152.00\n\n1                 -                     27/11/2024         Virement         -                681.70            313.57  54.42        367.99\n\n1                 -                     12/11/2024         Virement         -                471.00            240.00  35.00        275.00 \n\nApplication Moblle : SMART CNOPS - Assuré : > Télécharger",
+        "structured_data": {
+          "time_period": "6 derniers mois",
+          "records": [
+            {
+              "dossier_number": "906377038",
+              "received_date": "29/10/2024",
+              "payment_date": "17/02/2028",
+              "payment_method": "Virement",
+              "processing_time": "113 jours",
+              "amounts": {
+                "frais_engages": 2800.0,
+                "amo": 1896.0,
+                "mutuelle": 378.0,
+                "total": 2274.0
+              }
+            },
+            {
+              "payment_date": "07/02/2025",
+              "payment_method": "Virement",
+              "amounts": {
+                "frais_engages": 200.0,
+                "amo": 128.0,
+                "mutuelle": 24.0,
+                "total": 152.0
+              }
+            },
+            {
+              "payment_date": "27/11/2024",
+              "payment_method": "Virement",
+              "amounts": {
+                "frais_engages": 681.7,
+                "amo": 313.57,
+                "mutuelle": 54.42,
+                "total": 367.99
+              }
+            },
+            {
+              "payment_date": "12/11/2024",
+              "payment_method": "Virement",
+              "amounts": {
+                "frais_engages": 471.0,
+                "amo": 240.0,
+                "mutuelle": 35.0,
+                "total": 275.0
+              }
+            }
+          ],
+          "mobile_app": "SMART CNOPS"
+        }
+      },
+      "metadata": {
+        "organization": "CNOPS",
+        "record_type": "healthcare_payments",
+        "currency": "MAD",
+        "relevant_to": [
+          "healthcare",
+          "insurance",
+          "reimbursements"
+        ],
+        "time_coverage": {
+          "start_date": "2024-11-12",
+          "end_date": "2028-02-17"
+        }
+      }
+    }
+  },
+  {
+    "id": "sanlam_001",
+    "source": "decompte_remboursement.txt",
+    "type": "insurance_reimbursement",
+    "language": "fr",
+    "chunk_id": "sanlam_001_1",
+    "text": "Sanlam bordereau 20241020: Reçu le 22/10/2024 pour incident du 20/10/2024 (IC/CCM/SXD), réglé le 24/10/2024",
+    "metadata": {
+      "id": "sanlam_001",
+      "source": "decompte_remboursement.txt",
+      "language": "fr",
+      "type": "insurance_reimbursement",
+      "content": {
+        "text": "Sanlam\nDECOMPTE DE REMBOURSEMENT DESTINE\nA L'ASSURE\nBordereau N° : 20241020\nDate de réception : 22/10/2024\nDate de Réglement : 24/10/2024\nDate de survenance : 20/10/2024\nNature de la maladie : IC/CCM/SXD\nActes Médicaux     Frais engagés(Dh)     Montant nom remboursable(Dh)     Remboursement Régime de base(Dh)     Remboursement de la Compagnie(Dh)     Observations\nPROTHESE DENTAIRE  2 600.00              0.00                             2496,00                              104,00\nSOINS DENTISTE     200.00                0.00                             112.00                               88.00\nTOTAUX             2800.00               0.00                             2608.00                              192.00\nRèglement de ls Compagnie (Dh): 192,00\nFait à Casablanca. le : 31/01/2025            Directon Indemnisation Soins Santé",
+        "structured_data": {
+          "insurer": "Sanlam",
+          "document_type": "DECOMPTE DE REMBOURSEMENT",
+          "reference": {
+            "bordereau_number": "20241020",
+            "received_date": "22/10/2024",
+            "payment_date": "24/10/2024",
+            "incident_date": "20/10/2024"
+          },
+          "medical_details": {
+            "condition": "IC/CCM/SXD",
+            "treatments": [
+              {
+                "procedure": "PROTHESE DENTAIRE",
+                "cost": 2600.0,
+                "non_reimbursable": 0.0,
+                "base_plan_reimbursement": 2496.0,
+                "additional_reimbursement": 104.0,
+                "reimbursement_rate": 96.0
+              },
+              {
+                "procedure": "SOINS DENTISTE",
+                "cost": 200.0,
+                "non_reimbursable": 0.0,
+                "base_plan_reimbursement": 112.0,
+                "additional_reimbursement": 88.0,
+                "reimbursement_rate": 56.0
+              }
+            ],
+            "totals": {
+              "total_cost": 2800.0,
+              "total_non_reimbursable": 0.0,
+              "total_base_reimbursement": 2608.0,
+              "total_additional_reimbursement": 192.0,
+              "overall_reimbursement_rate": 93.14
+            }
+          },
+          "payment": {
+            "amount": 192.0,
+            "currency": "Dh",
+            "issuance_date": "31/01/2025",
+            "issuance_place": "Casablanca",
+            "issuing_department": "Direction Indemnisation Soins Santé"
+          }
+        }
+      },
+      "metadata": {
+        "organization": "Sanlam",
+        "document_category": "health_insurance",
+        "currency": "MAD",
+        "relevant_to": [
+          "dentistry",
+          "insurance",
+          "medical_reimbursement"
+        ],
+        "time_metrics": {
+          "processing_days": 2,
+          "incident_to_payment_days": 4
+        }
+      }
+    }
+  },
+  {
+    "id": "sanlam_001",
+    "source": "decompte_remboursement.txt",
+    "type": "insurance_reimbursement",
+    "language": "fr",
+    "chunk_id": "sanlam_001_2",
+    "text": "Dental treatments: Prothèse dentaire (2600.00 Dh, remboursé à 96%) - Soins dentiste (200.00 Dh, remboursé à 56%)",
+    "metadata": {
+      "id": "sanlam_001",
+      "source": "decompte_remboursement.txt",
+      "language": "fr",
+      "type": "insurance_reimbursement",
+      "content": {
+        "text": "Sanlam\nDECOMPTE DE REMBOURSEMENT DESTINE\nA L'ASSURE\nBordereau N° : 20241020\nDate de réception : 22/10/2024\nDate de Réglement : 24/10/2024\nDate de survenance : 20/10/2024\nNature de la maladie : IC/CCM/SXD\nActes Médicaux     Frais engagés(Dh)     Montant nom remboursable(Dh)     Remboursement Régime de base(Dh)     Remboursement de la Compagnie(Dh)     Observations\nPROTHESE DENTAIRE  2 600.00              0.00                             2496,00                              104,00\nSOINS DENTISTE     200.00                0.00                             112.00                               88.00\nTOTAUX             2800.00               0.00                             2608.00                              192.00\nRèglement de ls Compagnie (Dh): 192,00\nFait à Casablanca. le : 31/01/2025            Directon Indemnisation Soins Santé",
+        "structured_data": {
+          "insurer": "Sanlam",
+          "document_type": "DECOMPTE DE REMBOURSEMENT",
+          "reference": {
+            "bordereau_number": "20241020",
+            "received_date": "22/10/2024",
+            "payment_date": "24/10/2024",
+            "incident_date": "20/10/2024"
+          },
+          "medical_details": {
+            "condition": "IC/CCM/SXD",
+            "treatments": [
+              {
+                "procedure": "PROTHESE DENTAIRE",
+                "cost": 2600.0,
+                "non_reimbursable": 0.0,
+                "base_plan_reimbursement": 2496.0,
+                "additional_reimbursement": 104.0,
+                "reimbursement_rate": 96.0
+              },
+              {
+                "procedure": "SOINS DENTISTE",
+                "cost": 200.0,
+                "non_reimbursable": 0.0,
+                "base_plan_reimbursement": 112.0,
+                "additional_reimbursement": 88.0,
+                "reimbursement_rate": 56.0
+              }
+            ],
+            "totals": {
+              "total_cost": 2800.0,
+              "total_non_reimbursable": 0.0,
+              "total_base_reimbursement": 2608.0,
+              "total_additional_reimbursement": 192.0,
+              "overall_reimbursement_rate": 93.14
+            }
+          },
+          "payment": {
+            "amount": 192.0,
+            "currency": "Dh",
+            "issuance_date": "31/01/2025",
+            "issuance_place": "Casablanca",
+            "issuing_department": "Direction Indemnisation Soins Santé"
+          }
+        }
+      },
+      "metadata": {
+        "organization": "Sanlam",
+        "document_category": "health_insurance",
+        "currency": "MAD",
+        "relevant_to": [
+          "dentistry",
+          "insurance",
+          "medical_reimbursement"
+        ],
+        "time_metrics": {
+          "processing_days": 2,
+          "incident_to_payment_days": 4
+        }
+      }
+    }
+  },
+  {
+    "id": "sanlam_001",
+    "source": "decompte_remboursement.txt",
+    "type": "insurance_reimbursement",
+    "language": "fr",
+    "chunk_id": "sanlam_001_3",
+    "text": "Total reimbursement: 2800.00 Dh engagés, 2608.00 Dh par régime de base + 192.00 Dh complémentaire, émis à Casablanca le 31/01/2025",
+    "metadata": {
+      "id": "sanlam_001",
+      "source": "decompte_remboursement.txt",
+      "language": "fr",
+      "type": "insurance_reimbursement",
+      "content": {
+        "text": "Sanlam\nDECOMPTE DE REMBOURSEMENT DESTINE\nA L'ASSURE\nBordereau N° : 20241020\nDate de réception : 22/10/2024\nDate de Réglement : 24/10/2024\nDate de survenance : 20/10/2024\nNature de la maladie : IC/CCM/SXD\nActes Médicaux     Frais engagés(Dh)     Montant nom remboursable(Dh)     Remboursement Régime de base(Dh)     Remboursement de la Compagnie(Dh)     Observations\nPROTHESE DENTAIRE  2 600.00              0.00                             2496,00                              104,00\nSOINS DENTISTE     200.00                0.00                             112.00                               88.00\nTOTAUX             2800.00               0.00                             2608.00                              192.00\nRèglement de ls Compagnie (Dh): 192,00\nFait à Casablanca. le : 31/01/2025            Directon Indemnisation Soins Santé",
+        "structured_data": {
+          "insurer": "Sanlam",
+          "document_type": "DECOMPTE DE REMBOURSEMENT",
+          "reference": {
+            "bordereau_number": "20241020",
+            "received_date": "22/10/2024",
+            "payment_date": "24/10/2024",
+            "incident_date": "20/10/2024"
+          },
+          "medical_details": {
+            "condition": "IC/CCM/SXD",
+            "treatments": [
+              {
+                "procedure": "PROTHESE DENTAIRE",
+                "cost": 2600.0,
+                "non_reimbursable": 0.0,
+                "base_plan_reimbursement": 2496.0,
+                "additional_reimbursement": 104.0,
+                "reimbursement_rate": 96.0
+              },
+              {
+                "procedure": "SOINS DENTISTE",
+                "cost": 200.0,
+                "non_reimbursable": 0.0,
+                "base_plan_reimbursement": 112.0,
+                "additional_reimbursement": 88.0,
+                "reimbursement_rate": 56.0
+              }
+            ],
+            "totals": {
+              "total_cost": 2800.0,
+              "total_non_reimbursable": 0.0,
+              "total_base_reimbursement": 2608.0,
+              "total_additional_reimbursement": 192.0,
+              "overall_reimbursement_rate": 93.14
+            }
+          },
+          "payment": {
+            "amount": 192.0,
+            "currency": "Dh",
+            "issuance_date": "31/01/2025",
+            "issuance_place": "Casablanca",
+            "issuing_department": "Direction Indemnisation Soins Santé"
+          }
+        }
+      },
+      "metadata": {
+        "organization": "Sanlam",
+        "document_category": "health_insurance",
+        "currency": "MAD",
+        "relevant_to": [
+          "dentistry",
+          "insurance",
+          "medical_reimbursement"
+        ],
+        "time_metrics": {
+          "processing_days": 2,
+          "incident_to_payment_days": 4
+        }
+      }
+    }
+  },
+  {
+    "id": "estivage_001",
+    "source": "demande_estivage.txt",
+    "type": "summer_stay_application",
+    "language": "fr",
+    "chunk_id": "estivage_001_1",
+    "text": "Demande d'estivage form from AOS des régies et de la lydec / FOS-MEF (الملحق رقم 3) for summer stay program with family composition details",
+    "metadata": {
+      "id": "estivage_001",
+      "source": "demande_estivage.txt",
+      "language": "fr",
+      "type": "summer_stay_application",
+      "content": {
+        "text": "الملحق رقم 3\nDemande d'estivage\nAOS des régies et de la lydec / FOS-MEF\n\nNom et Prénom de l'Adhérent : \nTél : \nP.P.R. : \n\nSéjour demandé pour les personnes suivantes :\n\n(***) Adhérent Oui / Non\nConjoint : Oui / Non (Si oui : Prénom : )\nLes enfants à charge : Oui / Non\n\nPrénom et âge du 1er enfant : \n\nPrénom et âge du 2ème enfant : \nPrénom et âge du 3ème enfant : \n\nPrénom et âge du 4ème enfant : \n\n(***) Autres personnes : \n\nCentre désiré : \n\nType de logement : \n\nPériode : Du  au  (inclus)\n\nÀ : \nLe : 07/04/2025\n\nSignature de l'adhérent\n\nN.B :\nLe bénéficiaire ne doit pas dépasser la capacité (nombre de personnes) mentionnée à chaque centre sous peine de refus de son check in par la société de gestion sur place ;\nTout attributaire d'un logement dans un des centres d'estivage est tenu de connaître le règlement d'attribution des séjours et le règlement intérieur des centres et de s'y conformer scrupuleusement.",
+        "structured_data": {
+          "organization": {
+            "arabic": "الملحق رقم 3",
+            "french": "AOS des régies et de la lydec / FOS-MEF"
+          },
+          "applicant": {
+            "full_name": null,
+            "phone": null,
+            "ppr_number": null,
+            "signature_date": "07/04/2025"
+          },
+          "family_composition": {
+            "main_applicant": null,
+            "spouse": {
+              "included": null,
+              "first_name": null
+            },
+            "children": {
+              "count": null,
+              "details": [
+                {
+                  "name": null,
+                  "age": null
+                },
+                {
+                  "name": null,
+                  "age": null
+                },
+                {
+                  "name": null,
+                  "age": null
+                },
+                {
+                  "name": null,
+                  "age": null
+                }
+              ]
+            },
+            "other_persons": null
+          },
+          "stay_details": {
+            "center": null,
+            "housing_type": null,
+            "period": {
+              "start": null,
+              "end": null,
+              "inclusive": true
+            },
+            "location": null
+          },
+          "conditions": [
+            "Capacity restrictions apply",
+            "Must comply with center regulations"
+          ]
+        }
+      },
+      "metadata": {
+        "form_type": "summer_stay_application",
+        "issuing_organization": "AOS des régies et de la lydec / FOS-MEF",
+        "language_mix": [
+          "fr",
+          "ar"
+        ],
+        "relevant_to": [
+          "summer_programs",
+          "family_benefits",
+          "social_services"
+        ],
+        "submission_date": "2025-04-07"
+      }
+    }
+  },
+  {
+    "id": "estivage_001",
+    "source": "demande_estivage.txt",
+    "type": "summer_stay_application",
+    "language": "fr",
+    "chunk_id": "estivage_001_2",
+    "text": "Application includes fields for: applicant info (Nom/Prénom, PPR, Tel), spouse/children details (up to 4 children), desired center and housing type",
+    "metadata": {
+      "id": "estivage_001",
+      "source": "demande_estivage.txt",
+      "language": "fr",
+      "type": "summer_stay_application",
+      "content": {
+        "text": "الملحق رقم 3\nDemande d'estivage\nAOS des régies et de la lydec / FOS-MEF\n\nNom et Prénom de l'Adhérent : \nTél : \nP.P.R. : \n\nSéjour demandé pour les personnes suivantes :\n\n(***) Adhérent Oui / Non\nConjoint : Oui / Non (Si oui : Prénom : )\nLes enfants à charge : Oui / Non\n\nPrénom et âge du 1er enfant : \n\nPrénom et âge du 2ème enfant : \nPrénom et âge du 3ème enfant : \n\nPrénom et âge du 4ème enfant : \n\n(***) Autres personnes : \n\nCentre désiré : \n\nType de logement : \n\nPériode : Du  au  (inclus)\n\nÀ : \nLe : 07/04/2025\n\nSignature de l'adhérent\n\nN.B :\nLe bénéficiaire ne doit pas dépasser la capacité (nombre de personnes) mentionnée à chaque centre sous peine de refus de son check in par la société de gestion sur place ;\nTout attributaire d'un logement dans un des centres d'estivage est tenu de connaître le règlement d'attribution des séjours et le règlement intérieur des centres et de s'y conformer scrupuleusement.",
+        "structured_data": {
+          "organization": {
+            "arabic": "الملحق رقم 3",
+            "french": "AOS des régies et de la lydec / FOS-MEF"
+          },
+          "applicant": {
+            "full_name": null,
+            "phone": null,
+            "ppr_number": null,
+            "signature_date": "07/04/2025"
+          },
+          "family_composition": {
+            "main_applicant": null,
+            "spouse": {
+              "included": null,
+              "first_name": null
+            },
+            "children": {
+              "count": null,
+              "details": [
+                {
+                  "name": null,
+                  "age": null
+                },
+                {
+                  "name": null,
+                  "age": null
+                },
+                {
+                  "name": null,
+                  "age": null
+                },
+                {
+                  "name": null,
+                  "age": null
+                }
+              ]
+            },
+            "other_persons": null
+          },
+          "stay_details": {
+            "center": null,
+            "housing_type": null,
+            "period": {
+              "start": null,
+              "end": null,
+              "inclusive": true
+            },
+            "location": null
+          },
+          "conditions": [
+            "Capacity restrictions apply",
+            "Must comply with center regulations"
+          ]
+        }
+      },
+      "metadata": {
+        "form_type": "summer_stay_application",
+        "issuing_organization": "AOS des régies et de la lydec / FOS-MEF",
+        "language_mix": [
+          "fr",
+          "ar"
+        ],
+        "relevant_to": [
+          "summer_programs",
+          "family_benefits",
+          "social_services"
+        ],
+        "submission_date": "2025-04-07"
+      }
+    }
+  },
+  {
+    "id": "estivage_001",
+    "source": "demande_estivage.txt",
+    "type": "summer_stay_application",
+    "language": "fr",
+    "chunk_id": "estivage_001_3",
+    "text": "Important conditions: Must respect center capacity limits and comply with all regulations. Form signed on 07/04/2025.",
+    "metadata": {
+      "id": "estivage_001",
+      "source": "demande_estivage.txt",
+      "language": "fr",
+      "type": "summer_stay_application",
+      "content": {
+        "text": "الملحق رقم 3\nDemande d'estivage\nAOS des régies et de la lydec / FOS-MEF\n\nNom et Prénom de l'Adhérent : \nTél : \nP.P.R. : \n\nSéjour demandé pour les personnes suivantes :\n\n(***) Adhérent Oui / Non\nConjoint : Oui / Non (Si oui : Prénom : )\nLes enfants à charge : Oui / Non\n\nPrénom et âge du 1er enfant : \n\nPrénom et âge du 2ème enfant : \nPrénom et âge du 3ème enfant : \n\nPrénom et âge du 4ème enfant : \n\n(***) Autres personnes : \n\nCentre désiré : \n\nType de logement : \n\nPériode : Du  au  (inclus)\n\nÀ : \nLe : 07/04/2025\n\nSignature de l'adhérent\n\nN.B :\nLe bénéficiaire ne doit pas dépasser la capacité (nombre de personnes) mentionnée à chaque centre sous peine de refus de son check in par la société de gestion sur place ;\nTout attributaire d'un logement dans un des centres d'estivage est tenu de connaître le règlement d'attribution des séjours et le règlement intérieur des centres et de s'y conformer scrupuleusement.",
+        "structured_data": {
+          "organization": {
+            "arabic": "الملحق رقم 3",
+            "french": "AOS des régies et de la lydec / FOS-MEF"
+          },
+          "applicant": {
+            "full_name": null,
+            "phone": null,
+            "ppr_number": null,
+            "signature_date": "07/04/2025"
+          },
+          "family_composition": {
+            "main_applicant": null,
+            "spouse": {
+              "included": null,
+              "first_name": null
+            },
+            "children": {
+              "count": null,
+              "details": [
+                {
+                  "name": null,
+                  "age": null
+                },
+                {
+                  "name": null,
+                  "age": null
+                },
+                {
+                  "name": null,
+                  "age": null
+                },
+                {
+                  "name": null,
+                  "age": null
+                }
+              ]
+            },
+            "other_persons": null
+          },
+          "stay_details": {
+            "center": null,
+            "housing_type": null,
+            "period": {
+              "start": null,
+              "end": null,
+              "inclusive": true
+            },
+            "location": null
+          },
+          "conditions": [
+            "Capacity restrictions apply",
+            "Must comply with center regulations"
+          ]
+        }
+      },
+      "metadata": {
+        "form_type": "summer_stay_application",
+        "issuing_organization": "AOS des régies et de la lydec / FOS-MEF",
+        "language_mix": [
+          "fr",
+          "ar"
+        ],
+        "relevant_to": [
+          "summer_programs",
+          "family_benefits",
+          "social_services"
+        ],
+        "submission_date": "2025-04-07"
+      }
+    }
+  },
+  {
+    "id": "error_001",
+    "source": "erreur_technique.txt",
+    "type": "technical_error",
+    "language": "fr",
+    "chunk_id": "error_001_1",
+    "text": "Timeout error accessing efos.finances.gov.ma - Server may be temporarily unavailable or overloaded",
+    "metadata": {
+      "id": "error_001",
+      "source": "erreur_technique.txt",
+      "language": "fr",
+      "type": "technical_error",
+      "content": {
+        "text": "Le délai d'attente est dépassé\n\nLe serveur à l'adresse efos.finances.gov.ma met trop de temps à répondre.\nLe site est peut-être temporairement indisponible ou surchargé. Réessayez plus tard ;\nSi vous n'arrivez à naviguer sur aucun site, vérifiez la connexion au réseau de votre ordinateur ;\n\nSi votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que Firefox est autorisé à\naccéder au Web.\n\nRéessayez",
+        "structured_data": {
+          "error_type": "timeout",
+          "affected_service": {
+            "name": "efos",
+            "domain": "finances.gov.ma",
+            "full_url": "efos.finances.gov.ma"
+          },
+          "possible_causes": [
+            "server_unavailable",
+            "server_overload",
+            "network_issues",
+            "firewall_restrictions",
+            "proxy_configuration"
+          ],
+          "troubleshooting_steps": [
+            "retry_later",
+            "check_network_connection",
+            "verify_firefox_permissions",
+            "check_proxy_settings"
+          ],
+          "browser": "Firefox",
+          "error_message": "Le délai d'attente est dépassé"
+        }
+      },
+      "metadata": {
+        "error_category": "connection_timeout",
+        "severity": "medium",
+        "relevant_to": [
+          "technical_support",
+          "system_administration"
+        ],
+        "context": "web_browsing"
+      }
+    }
+  },
+  {
+    "id": "error_001",
+    "source": "erreur_technique.txt",
+    "type": "technical_error",
+    "language": "fr",
+    "chunk_id": "error_001_2",
+    "text": "Troubleshooting steps: 1) Check network connection 2) Verify Firefox has web access 3) Review proxy/firewall settings",
+    "metadata": {
+      "id": "error_001",
+      "source": "erreur_technique.txt",
+      "language": "fr",
+      "type": "technical_error",
+      "content": {
+        "text": "Le délai d'attente est dépassé\n\nLe serveur à l'adresse efos.finances.gov.ma met trop de temps à répondre.\nLe site est peut-être temporairement indisponible ou surchargé. Réessayez plus tard ;\nSi vous n'arrivez à naviguer sur aucun site, vérifiez la connexion au réseau de votre ordinateur ;\n\nSi votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que Firefox est autorisé à\naccéder au Web.\n\nRéessayez",
+        "structured_data": {
+          "error_type": "timeout",
+          "affected_service": {
+            "name": "efos",
+            "domain": "finances.gov.ma",
+            "full_url": "efos.finances.gov.ma"
+          },
+          "possible_causes": [
+            "server_unavailable",
+            "server_overload",
+            "network_issues",
+            "firewall_restrictions",
+            "proxy_configuration"
+          ],
+          "troubleshooting_steps": [
+            "retry_later",
+            "check_network_connection",
+            "verify_firefox_permissions",
+            "check_proxy_settings"
+          ],
+          "browser": "Firefox",
+          "error_message": "Le délai d'attente est dépassé"
+        }
+      },
+      "metadata": {
+        "error_category": "connection_timeout",
+        "severity": "medium",
+        "relevant_to": [
+          "technical_support",
+          "system_administration"
+        ],
+        "context": "web_browsing"
+      }
+    }
+  },
+  {
+    "id": "error_001",
+    "source": "erreur_technique.txt",
+    "type": "technical_error",
+    "language": "fr",
+    "chunk_id": "error_001_3",
+    "text": "Technical message: 'Le délai d'attente est dépassé' - Recommended action: Réessayez (Retry)",
+    "metadata": {
+      "id": "error_001",
+      "source": "erreur_technique.txt",
+      "language": "fr",
+      "type": "technical_error",
+      "content": {
+        "text": "Le délai d'attente est dépassé\n\nLe serveur à l'adresse efos.finances.gov.ma met trop de temps à répondre.\nLe site est peut-être temporairement indisponible ou surchargé. Réessayez plus tard ;\nSi vous n'arrivez à naviguer sur aucun site, vérifiez la connexion au réseau de votre ordinateur ;\n\nSi votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que Firefox est autorisé à\naccéder au Web.\n\nRéessayez",
+        "structured_data": {
+          "error_type": "timeout",
+          "affected_service": {
+            "name": "efos",
+            "domain": "finances.gov.ma",
+            "full_url": "efos.finances.gov.ma"
+          },
+          "possible_causes": [
+            "server_unavailable",
+            "server_overload",
+            "network_issues",
+            "firewall_restrictions",
+            "proxy_configuration"
+          ],
+          "troubleshooting_steps": [
+            "retry_later",
+            "check_network_connection",
+            "verify_firefox_permissions",
+            "check_proxy_settings"
+          ],
+          "browser": "Firefox",
+          "error_message": "Le délai d'attente est dépassé"
+        }
+      },
+      "metadata": {
+        "error_category": "connection_timeout",
+        "severity": "medium",
+        "relevant_to": [
+          "technical_support",
+          "system_administration"
+        ],
+        "context": "web_browsing"
+      }
+    }
+  },
+  {
+    "id": "cnops_reimb_001",
+    "source": "remboursement_cnops1.txt",
+    "type": "healthcare_reimbursement_processing",
+    "language": "fr",
+    "chunk_id": "cnops_reimb_001_1",
+    "text": "CNOPS reimbursement processing for beneficiary BOUSSAHA HANANE: 2 pending claims totaling 3000.00 MAD (2048.00 MAD reimbursable)",
+    "metadata": {
+      "id": "cnops_reimb_001",
+      "source": "remboursement_cnops1.txt",
+      "language": "fr",
+      "type": "healthcare_reimbursement_processing",
+      "content": {
+        "text": "www.cnops.org.ma\nRemboursements\nEN COURS DE TRAITEMENT\nNb.Dossier(n)     Date de réception     Bénéficiaire     Frais engagés     AMO     Mutuelle     Total\n2                 _                     _                3000.00           2024.00 24.00        2048.00\n90637038          29/02/2024            BOUSSAHA HANANE  2800.00           1896.00 0.00        1896.00\n92045540          07/01/2025            BOUSSAHA HANANE  200.00            128.00  24.00        152.00",
+        "structured_data": {
+          "source": "CNOPS Portal (www.cnops.org.ma)",
+          "status": "EN COURS DE TRAITEMENT",
+          "records": [
+            {
+              "dossier_number": null,
+              "received_date": null,
+              "beneficiary": null,
+              "amounts": {
+                "frais_engages": 3000.0,
+                "amo": 2024.0,
+                "mutuelle": 24.0,
+                "total": 2048.0
+              },
+              "record_type": "aggregate_summary"
+            },
+            {
+              "dossier_number": "90637038",
+              "received_date": "29/02/2024",
+              "beneficiary": "BOUSSAHA HANANE",
+              "amounts": {
+                "frais_engages": 2800.0,
+                "amo": 1896.0,
+                "mutuelle": 0.0,
+                "total": 1896.0,
+                "reimbursement_rate": 67.71
+              },
+              "processing_time": "Pending"
+            },
+            {
+              "dossier_number": "92045540",
+              "received_date": "07/01/2025",
+              "beneficiary": "BOUSSAHA HANANE",
+              "amounts": {
+                "frais_engages": 200.0,
+                "amo": 128.0,
+                "mutuelle": 24.0,
+                "total": 152.0,
+                "reimbursement_rate": 76.0
+              },
+              "processing_time": "Pending"
+            }
+          ],
+          "total_records": 2,
+          "beneficiary_consolidated": {
+            "name": "BOUSSAHA HANANE",
+            "total_frais_engages": 3000.0,
+            "total_reimbursement": 2048.0,
+            "average_reimbursement_rate": 68.27
+          }
+        }
+      },
+      "metadata": {
+        "organization": "CNOPS",
+        "record_type": "healthcare_reimbursement",
+        "currency": "MAD",
+        "status": "processing",
+        "relevant_to": [
+          "healthcare",
+          "insurance",
+          "social_security"
+        ],
+        "data_quality": {
+          "missing_fields": [
+            "partial_received_dates"
+          ],
+          "anomalies": [
+            "29/02/2024 (non-leap year date)"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "cnops_reimb_001",
+    "source": "remboursement_cnops1.txt",
+    "type": "healthcare_reimbursement_processing",
+    "language": "fr",
+    "chunk_id": "cnops_reimb_001_2",
+    "text": "Dossier 90637038 (29/02/2024): 2800.00 MAD medical costs, 1896.00 MAD AMO coverage (67.71% reimbursement rate)",
+    "metadata": {
+      "id": "cnops_reimb_001",
+      "source": "remboursement_cnops1.txt",
+      "language": "fr",
+      "type": "healthcare_reimbursement_processing",
+      "content": {
+        "text": "www.cnops.org.ma\nRemboursements\nEN COURS DE TRAITEMENT\nNb.Dossier(n)     Date de réception     Bénéficiaire     Frais engagés     AMO     Mutuelle     Total\n2                 _                     _                3000.00           2024.00 24.00        2048.00\n90637038          29/02/2024            BOUSSAHA HANANE  2800.00           1896.00 0.00        1896.00\n92045540          07/01/2025            BOUSSAHA HANANE  200.00            128.00  24.00        152.00",
+        "structured_data": {
+          "source": "CNOPS Portal (www.cnops.org.ma)",
+          "status": "EN COURS DE TRAITEMENT",
+          "records": [
+            {
+              "dossier_number": null,
+              "received_date": null,
+              "beneficiary": null,
+              "amounts": {
+                "frais_engages": 3000.0,
+                "amo": 2024.0,
+                "mutuelle": 24.0,
+                "total": 2048.0
+              },
+              "record_type": "aggregate_summary"
+            },
+            {
+              "dossier_number": "90637038",
+              "received_date": "29/02/2024",
+              "beneficiary": "BOUSSAHA HANANE",
+              "amounts": {
+                "frais_engages": 2800.0,
+                "amo": 1896.0,
+                "mutuelle": 0.0,
+                "total": 1896.0,
+                "reimbursement_rate": 67.71
+              },
+              "processing_time": "Pending"
+            },
+            {
+              "dossier_number": "92045540",
+              "received_date": "07/01/2025",
+              "beneficiary": "BOUSSAHA HANANE",
+              "amounts": {
+                "frais_engages": 200.0,
+                "amo": 128.0,
+                "mutuelle": 24.0,
+                "total": 152.0,
+                "reimbursement_rate": 76.0
+              },
+              "processing_time": "Pending"
+            }
+          ],
+          "total_records": 2,
+          "beneficiary_consolidated": {
+            "name": "BOUSSAHA HANANE",
+            "total_frais_engages": 3000.0,
+            "total_reimbursement": 2048.0,
+            "average_reimbursement_rate": 68.27
+          }
+        }
+      },
+      "metadata": {
+        "organization": "CNOPS",
+        "record_type": "healthcare_reimbursement",
+        "currency": "MAD",
+        "status": "processing",
+        "relevant_to": [
+          "healthcare",
+          "insurance",
+          "social_security"
+        ],
+        "data_quality": {
+          "missing_fields": [
+            "partial_received_dates"
+          ],
+          "anomalies": [
+            "29/02/2024 (non-leap year date)"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "cnops_reimb_001",
+    "source": "remboursement_cnops1.txt",
+    "type": "healthcare_reimbursement_processing",
+    "language": "fr",
+    "chunk_id": "cnops_reimb_001_3",
+    "text": "Dossier 92045540 (07/01/2025): 200.00 MAD costs, 152.00 MAD total reimbursement (76% rate) - Both claims currently in process",
+    "metadata": {
+      "id": "cnops_reimb_001",
+      "source": "remboursement_cnops1.txt",
+      "language": "fr",
+      "type": "healthcare_reimbursement_processing",
+      "content": {
+        "text": "www.cnops.org.ma\nRemboursements\nEN COURS DE TRAITEMENT\nNb.Dossier(n)     Date de réception     Bénéficiaire     Frais engagés     AMO     Mutuelle     Total\n2                 _                     _                3000.00           2024.00 24.00        2048.00\n90637038          29/02/2024            BOUSSAHA HANANE  2800.00           1896.00 0.00        1896.00\n92045540          07/01/2025            BOUSSAHA HANANE  200.00            128.00  24.00        152.00",
+        "structured_data": {
+          "source": "CNOPS Portal (www.cnops.org.ma)",
+          "status": "EN COURS DE TRAITEMENT",
+          "records": [
+            {
+              "dossier_number": null,
+              "received_date": null,
+              "beneficiary": null,
+              "amounts": {
+                "frais_engages": 3000.0,
+                "amo": 2024.0,
+                "mutuelle": 24.0,
+                "total": 2048.0
+              },
+              "record_type": "aggregate_summary"
+            },
+            {
+              "dossier_number": "90637038",
+              "received_date": "29/02/2024",
+              "beneficiary": "BOUSSAHA HANANE",
+              "amounts": {
+                "frais_engages": 2800.0,
+                "amo": 1896.0,
+                "mutuelle": 0.0,
+                "total": 1896.0,
+                "reimbursement_rate": 67.71
+              },
+              "processing_time": "Pending"
+            },
+            {
+              "dossier_number": "92045540",
+              "received_date": "07/01/2025",
+              "beneficiary": "BOUSSAHA HANANE",
+              "amounts": {
+                "frais_engages": 200.0,
+                "amo": 128.0,
+                "mutuelle": 24.0,
+                "total": 152.0,
+                "reimbursement_rate": 76.0
+              },
+              "processing_time": "Pending"
+            }
+          ],
+          "total_records": 2,
+          "beneficiary_consolidated": {
+            "name": "BOUSSAHA HANANE",
+            "total_frais_engages": 3000.0,
+            "total_reimbursement": 2048.0,
+            "average_reimbursement_rate": 68.27
+          }
+        }
+      },
+      "metadata": {
+        "organization": "CNOPS",
+        "record_type": "healthcare_reimbursement",
+        "currency": "MAD",
+        "status": "processing",
+        "relevant_to": [
+          "healthcare",
+          "insurance",
+          "social_security"
+        ],
+        "data_quality": {
+          "missing_fields": [
+            "partial_received_dates"
+          ],
+          "anomalies": [
+            "29/02/2024 (non-leap year date)"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "ticket_001",
+    "source": "ticket_reservation.txt",
+    "type": "travel_ticket",
+    "language": "fr",
+    "chunk_id": "ticket_001_1",
+    "text": "Nominal e-ticket for travel from AEROPORT Med V (09:50) to MARRAKECH (13:14) - 3h24m duration",
+    "metadata": {
+      "id": "ticket_001",
+      "source": "ticket_reservation.txt",
+      "language": "fr",
+      "type": "travel_ticket",
+      "content": {
+        "text": "Le e-billet est nominatif, veuillez entrer le nom et prénom de chaque voyageur tels qu'ils figurent sur sa pièce d'identité.\n\nMon 1er Voyage AEROPORT Med V(09:50) > MARRAKECH (13:14)\n\nPassager 1 Adulte\nJe suis\n\n Monsieur. © Madame.\n\nprénom nom\n\nSOUMIA IDRISSI-YAZNASSNI\nالاسم الشخصي الاسم العائلي\nسمية ادريسي يزناسني\n\nE-mail N° de téléphone\n\nE-mail + 212Maroc",
+        "structured_data": {
+          "ticket_type": "e-billet nominatif",
+          "journey": {
+            "departure": {
+              "location": "AEROPORT Med V",
+              "time": "09:50",
+              "date": null
+            },
+            "arrival": {
+              "location": "MARRAKECH",
+              "time": "13:14",
+              "date": null
+            },
+            "duration": "3h24m"
+          },
+          "passengers": [
+            {
+              "passenger_number": 1,
+              "type": "Adulte",
+              "title": "Monsieur/Madame",
+              "name": {
+                "latin": "SOUMIA IDRISSI-YAZNASSNI",
+                "arabic": "سمية ادريسي يزناسني",
+                "breakdown": {
+                  "given_name": "SOUMIA/سمية",
+                  "family_name": "IDRISSI-YAZNASSNI/ادريسي يزناسني"
+                }
+              },
+              "contact": {
+                "email": null,
+                "phone": "+212"
+              }
+            }
+          ],
+          "requirements": [
+            "Name must match ID document"
+          ]
+        }
+      },
+      "metadata": {
+        "carrier": null,
+        "transport_type": "flight",
+        "ticket_class": "standard",
+        "relevant_to": [
+          "travel",
+          "transportation",
+          "tourism"
+        ],
+        "multilingual_fields": [
+          "name"
+        ],
+        "security_notice": "PII present"
+      }
+    }
+  },
+  {
+    "id": "ticket_001",
+    "source": "ticket_reservation.txt",
+    "type": "travel_ticket",
+    "language": "fr",
+    "chunk_id": "ticket_001_2",
+    "text": "Passenger 1: SOUMIA IDRISSI-YAZNASSNI (Adult), Arabic name: سمية ادريسي يزناسني, Contact: +212",
+    "metadata": {
+      "id": "ticket_001",
+      "source": "ticket_reservation.txt",
+      "language": "fr",
+      "type": "travel_ticket",
+      "content": {
+        "text": "Le e-billet est nominatif, veuillez entrer le nom et prénom de chaque voyageur tels qu'ils figurent sur sa pièce d'identité.\n\nMon 1er Voyage AEROPORT Med V(09:50) > MARRAKECH (13:14)\n\nPassager 1 Adulte\nJe suis\n\n Monsieur. © Madame.\n\nprénom nom\n\nSOUMIA IDRISSI-YAZNASSNI\nالاسم الشخصي الاسم العائلي\nسمية ادريسي يزناسني\n\nE-mail N° de téléphone\n\nE-mail + 212Maroc",
+        "structured_data": {
+          "ticket_type": "e-billet nominatif",
+          "journey": {
+            "departure": {
+              "location": "AEROPORT Med V",
+              "time": "09:50",
+              "date": null
+            },
+            "arrival": {
+              "location": "MARRAKECH",
+              "time": "13:14",
+              "date": null
+            },
+            "duration": "3h24m"
+          },
+          "passengers": [
+            {
+              "passenger_number": 1,
+              "type": "Adulte",
+              "title": "Monsieur/Madame",
+              "name": {
+                "latin": "SOUMIA IDRISSI-YAZNASSNI",
+                "arabic": "سمية ادريسي يزناسني",
+                "breakdown": {
+                  "given_name": "SOUMIA/سمية",
+                  "family_name": "IDRISSI-YAZNASSNI/ادريسي يزناسني"
+                }
+              },
+              "contact": {
+                "email": null,
+                "phone": "+212"
+              }
+            }
+          ],
+          "requirements": [
+            "Name must match ID document"
+          ]
+        }
+      },
+      "metadata": {
+        "carrier": null,
+        "transport_type": "flight",
+        "ticket_class": "standard",
+        "relevant_to": [
+          "travel",
+          "transportation",
+          "tourism"
+        ],
+        "multilingual_fields": [
+          "name"
+        ],
+        "security_notice": "PII present"
+      }
+    }
+  },
+  {
+    "id": "ticket_001",
+    "source": "ticket_reservation.txt",
+    "type": "travel_ticket",
+    "language": "fr",
+    "chunk_id": "ticket_001_3",
+    "text": "Important requirement: Passenger name must exactly match ID document. Electronic ticket with incomplete contact information.",
+    "metadata": {
+      "id": "ticket_001",
+      "source": "ticket_reservation.txt",
+      "language": "fr",
+      "type": "travel_ticket",
+      "content": {
+        "text": "Le e-billet est nominatif, veuillez entrer le nom et prénom de chaque voyageur tels qu'ils figurent sur sa pièce d'identité.\n\nMon 1er Voyage AEROPORT Med V(09:50) > MARRAKECH (13:14)\n\nPassager 1 Adulte\nJe suis\n\n Monsieur. © Madame.\n\nprénom nom\n\nSOUMIA IDRISSI-YAZNASSNI\nالاسم الشخصي الاسم العائلي\nسمية ادريسي يزناسني\n\nE-mail N° de téléphone\n\nE-mail + 212Maroc",
+        "structured_data": {
+          "ticket_type": "e-billet nominatif",
+          "journey": {
+            "departure": {
+              "location": "AEROPORT Med V",
+              "time": "09:50",
+              "date": null
+            },
+            "arrival": {
+              "location": "MARRAKECH",
+              "time": "13:14",
+              "date": null
+            },
+            "duration": "3h24m"
+          },
+          "passengers": [
+            {
+              "passenger_number": 1,
+              "type": "Adulte",
+              "title": "Monsieur/Madame",
+              "name": {
+                "latin": "SOUMIA IDRISSI-YAZNASSNI",
+                "arabic": "سمية ادريسي يزناسني",
+                "breakdown": {
+                  "given_name": "SOUMIA/سمية",
+                  "family_name": "IDRISSI-YAZNASSNI/ادريسي يزناسني"
+                }
+              },
+              "contact": {
+                "email": null,
+                "phone": "+212"
+              }
+            }
+          ],
+          "requirements": [
+            "Name must match ID document"
+          ]
+        }
+      },
+      "metadata": {
+        "carrier": null,
+        "transport_type": "flight",
+        "ticket_class": "standard",
+        "relevant_to": [
+          "travel",
+          "transportation",
+          "tourism"
+        ],
+        "multilingual_fields": [
+          "name"
+        ],
+        "security_notice": "PII present"
+      }
+    }
+  },
+  {
+    "id": "treasury_001",
+    "source": "tresorerie_generale_royaume.txt",
+    "type": "government_payment",
+    "language": "fr",
+    "chunk_id": "treasury_001_1",
+    "text": "Payment order from TRÉSORERIE GÉNÉRALE DU ROYAUME (Tanger branch) for 1,260.00 MAD to FONDATION DES OEUVRES SOCIALES",
+    "metadata": {
+      "id": "treasury_001",
+      "source": "tresorerie_generale_royaume.txt",
+      "language": "fr",
+      "type": "government_payment",
+      "content": {
+        "text": "TRÉSORERIE GÉNÉRALE DU ROYAUME\n\n1000 - A.B. TANGER\n\nVERSEMENT DÉPLACÉ\n\nREFERENCE : \n\nNOUS PORTONS AU CREDIT DE VOTRE COMPTE NO \n\nAU NOM DE : FONDATION DES OEUVRES SOCIALES DU\n\nUN MONTANT DE 1.260,00 DIRHAM\n\nSOIT mille deux cent soixante Dirhams\n\nDATE VALEUR..:09.05.25\n\nLE : 08.05.25, A TANGER",
+        "structured_data": {
+          "issuer": {
+            "organization": "TRÉSORERIE GÉNÉRALE DU ROYAUME",
+            "branch": "1000 - A.B. TANGER",
+            "location": "Tanger"
+          },
+          "transaction": {
+            "type": "VERSEMENT DÉPLACÉ",
+            "reference_number": null,
+            "account_number": null,
+            "beneficiary": "FONDATION DES OEUVRES SOCIALES DU [incomplete]",
+            "amount": {
+              "numeric": 1260.0,
+              "text": "mille deux cent soixante Dirhams",
+              "currency": "MAD"
+            },
+            "dates": {
+              "execution": "08.05.25",
+              "value": "09.05.25",
+              "processing_delay": "1 day"
+            }
+          },
+          "metadata": {
+            "document_notes": [
+              "Beneficiary name appears incomplete",
+              "Missing reference and account numbers"
+            ]
+          }
+        }
+      },
+      "metadata": {
+        "country": "Morocco",
+        "organization_type": "government_treasury",
+        "relevant_to": [
+          "public_finance",
+          "social_services"
+        ],
+        "data_quality": {
+          "completeness": 0.7,
+          "missing_fields": [
+            "reference_number",
+            "account_number",
+            "full_beneficiary_name"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "treasury_001",
+    "source": "tresorerie_generale_royaume.txt",
+    "type": "government_payment",
+    "language": "fr",
+    "chunk_id": "treasury_001_2",
+    "text": "Transaction details: Value date 09.05.25, executed on 08.05.25 as VERSEMENT DÉPLACÉ type - 1 day processing",
+    "metadata": {
+      "id": "treasury_001",
+      "source": "tresorerie_generale_royaume.txt",
+      "language": "fr",
+      "type": "government_payment",
+      "content": {
+        "text": "TRÉSORERIE GÉNÉRALE DU ROYAUME\n\n1000 - A.B. TANGER\n\nVERSEMENT DÉPLACÉ\n\nREFERENCE : \n\nNOUS PORTONS AU CREDIT DE VOTRE COMPTE NO \n\nAU NOM DE : FONDATION DES OEUVRES SOCIALES DU\n\nUN MONTANT DE 1.260,00 DIRHAM\n\nSOIT mille deux cent soixante Dirhams\n\nDATE VALEUR..:09.05.25\n\nLE : 08.05.25, A TANGER",
+        "structured_data": {
+          "issuer": {
+            "organization": "TRÉSORERIE GÉNÉRALE DU ROYAUME",
+            "branch": "1000 - A.B. TANGER",
+            "location": "Tanger"
+          },
+          "transaction": {
+            "type": "VERSEMENT DÉPLACÉ",
+            "reference_number": null,
+            "account_number": null,
+            "beneficiary": "FONDATION DES OEUVRES SOCIALES DU [incomplete]",
+            "amount": {
+              "numeric": 1260.0,
+              "text": "mille deux cent soixante Dirhams",
+              "currency": "MAD"
+            },
+            "dates": {
+              "execution": "08.05.25",
+              "value": "09.05.25",
+              "processing_delay": "1 day"
+            }
+          },
+          "metadata": {
+            "document_notes": [
+              "Beneficiary name appears incomplete",
+              "Missing reference and account numbers"
+            ]
+          }
+        }
+      },
+      "metadata": {
+        "country": "Morocco",
+        "organization_type": "government_treasury",
+        "relevant_to": [
+          "public_finance",
+          "social_services"
+        ],
+        "data_quality": {
+          "completeness": 0.7,
+          "missing_fields": [
+            "reference_number",
+            "account_number",
+            "full_beneficiary_name"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "treasury_001",
+    "source": "tresorerie_generale_royaume.txt",
+    "type": "government_payment",
+    "language": "fr",
+    "chunk_id": "treasury_001_3",
+    "text": "Data notes: Missing reference/account numbers, beneficiary name possibly truncated. Amount: 1260.00 MAD (mille deux cent soixante Dirhams)",
+    "metadata": {
+      "id": "treasury_001",
+      "source": "tresorerie_generale_royaume.txt",
+      "language": "fr",
+      "type": "government_payment",
+      "content": {
+        "text": "TRÉSORERIE GÉNÉRALE DU ROYAUME\n\n1000 - A.B. TANGER\n\nVERSEMENT DÉPLACÉ\n\nREFERENCE : \n\nNOUS PORTONS AU CREDIT DE VOTRE COMPTE NO \n\nAU NOM DE : FONDATION DES OEUVRES SOCIALES DU\n\nUN MONTANT DE 1.260,00 DIRHAM\n\nSOIT mille deux cent soixante Dirhams\n\nDATE VALEUR..:09.05.25\n\nLE : 08.05.25, A TANGER",
+        "structured_data": {
+          "issuer": {
+            "organization": "TRÉSORERIE GÉNÉRALE DU ROYAUME",
+            "branch": "1000 - A.B. TANGER",
+            "location": "Tanger"
+          },
+          "transaction": {
+            "type": "VERSEMENT DÉPLACÉ",
+            "reference_number": null,
+            "account_number": null,
+            "beneficiary": "FONDATION DES OEUVRES SOCIALES DU [incomplete]",
+            "amount": {
+              "numeric": 1260.0,
+              "text": "mille deux cent soixante Dirhams",
+              "currency": "MAD"
+            },
+            "dates": {
+              "execution": "08.05.25",
+              "value": "09.05.25",
+              "processing_delay": "1 day"
+            }
+          },
+          "metadata": {
+            "document_notes": [
+              "Beneficiary name appears incomplete",
+              "Missing reference and account numbers"
+            ]
+          }
+        }
+      },
+      "metadata": {
+        "country": "Morocco",
+        "organization_type": "government_treasury",
+        "relevant_to": [
+          "public_finance",
+          "social_services"
+        ],
+        "data_quality": {
+          "completeness": 0.7,
+          "missing_fields": [
+            "reference_number",
+            "account_number",
+            "full_beneficiary_name"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "ae79ce1f-9cb4-4083-81cf-977ee459c828",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "2a9853c7-d0fc-4f48-b58b-2834728203b5",
+    "text": "uestion : Madame, Monsieur, Je me permets de vous adresser la présente réclamation concernant ma demande de prêt effectuée via votre application. En effet, j’ai récemment soumis une demande, mais je me suis rendu compte que celle-ci a été faite de manière erronée. En effet, par inadvertance, je n'ai pas pris en compte la date de début de la demande mentionnée sur la circulaire que j'ai reçue, ce qui a conduit à une erreur dans la date de ma demande. Je regrette sincèrement cette négligence de ma part et me rends compte que cela risque de bloquer ma demande et de m'empêcher de la renouveler correctement à la date prévue. Je vous serais reconnaissante de bien vouloir prendre en considération cette erreur et procéder à la rectification de cette situation afin de me permettre de la refaire à la date prévue. Je vous remercie par avance pour votre compréhension et reste à votre disposition pour toute information complémentaire. Dans l'attente de votre réponse, je vous prie d’agréer,Monsieur, l’expression de mes salutations distinguées.",
+    "metadata": {}
+  },
+  {
+    "id": "e3080eba-113a-45ee-a130-aad6e6a11e31",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "a11a3f36-b8ec-44fa-aac5-ddfa0bf91592",
+    "text": "eponse : Bonjour, Merci de nous communiquer votre PPR.",
+    "metadata": {}
+  },
+  {
+    "id": "49b42f2f-37b6-4293-9920-832329a2b24e",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "04bf8882-eb9b-4eea-a019-6034504521ba",
+    "text": "Bonjour Kawtar, Cette adhérente a été contactée par TLF le lendemain (18/03/2025). Elle a pu également effectuer sa demande de PS le 20/03/2025. Dans l’attente du rejet de sa demande de prêt exceptionnel.",
+    "metadata": {}
+  },
+  {
+    "id": "b842cc43-6c7d-4319-a008-15db3b3d8efc",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "15465b48-3588-4537-87d0-fc4784338883",
+    "text": "uestion2 : Bj j'attends toujours le déblocage de ce crédit Cordialement",
+    "metadata": {}
+  },
+  {
+    "id": "2d5ae011-27a5-4954-89ea-3a2e6e6239ba",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "6d9277fb-b41f-4557-b222-328011ae5d52",
+    "text": "3 : Salam Voilà j’ai soumis la demande de prêt au niveau du prêt social le 20 mars à 10h05 min. Je suis très déçue sincèrement. Parce ce que j’ai un besoin incessant de cette somme. Bonne journée",
+    "metadata": {}
+  },
+  {
+    "id": "e04137fb-c3d7-4a36-b70a-9f98237097d5",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "4e5d8569-8106-4e6d-84e1-f07911165c9d",
+    "text": "Salam, Merci infiniment pour votre  écoute et votre compréhension et la réactivité rapide de l’équipe chargée du contact FOS. Je suis dans la gratitude  envers vous. Fière toujours d’appartenir au Ministère des Finances. Cordialement,",
+    "metadata": {}
+  },
+  {
+    "id": "6d70d142-5732-4fc1-86f6-6e25c8b06174",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "16d921f9-a82b-44b1-8ba8-c4eba0d6daee",
+    "text": "Bonjour, Suite à notre demande ci-joint (la journée du 12 inclus) nous vous informons que lors de notre check in le gestionnaire du centre nous a demandé de vous contacter pour modifier le bon et inclure la journée du 12 en précisant que la période est: du 09/04 au 13/04 au lieu de : du 09/04 au 12/04 (pour lui la date fin c’est la date de sortie et ce n’est pas le dernier jour de séjour) Salutation, Bonjour, Vous trouverez ci-joint ma demande du centre d’estivage pour la période allant du 09/04/2025 au 12/04/2025 inclus. Merci de traiter cette demande le plutôt possible ( vu la période demandée). Salutation, Bonjour, Je vous contacte aujourd'hui pour exprimer mon mécontentement concernant le remboursement que j'ai reçu pour ma récente demande de prise en charge des frais de santé liés à des soins dentaires (prothèse dentaire) En effet, le montant remboursé par votre service ne couvre pas la différence entre les frais engagés et le montant pris en charge par le régime de base de l'Assurance Maladie Obligatoire. Voici les détails de ma situation : Montant total des frais engagés : 2800.00 Montant remboursé par le régime de base : 1896.00 Montant remboursé par votre organisme : 192.00 Reste à charge : 712.00 Je vous joins à cette lettre les documents justificatifs nécessaires, notamment : Le décompte de remboursement de l'Assurance Maladie Le décompte de remboursement de votre organisme Je vous serais reconnaissant de bien vouloir traiter cette réclamation dans les meilleurs délais et de me tenir informé des suites données. Je reste à votre disposition pour toute information complémentaire que vous pourriez nécessiter. Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.",
+    "metadata": {}
+  },
+  {
+    "id": "e4a30484-a4dc-429f-8c72-eef45ae16dcc",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "8039c289-d0e4-4abc-860b-f55c6b504332",
+    "text": "Bonjour, Le décompte transmis et en état « en cours de traitement « et non un décompte définitif, merci de nous transmettre le décompte avec statut payé. Cdt.",
+    "metadata": {}
+  },
+  {
+    "id": "f39d84ef-10e4-4441-82ed-593b6ed5ef05",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "fdb51526-2730-4d20-9cae-0f2c5f51d9d9",
+    "text": "Bonjour, Merci de trouver ci-joint le décompte définitif. Prière de faire le nécessaire puisque les frais engagés ne sont pas toujours pas couverts même après la rectification effectuée par la cnops. Cordialement.",
+    "metadata": {}
+  },
+  {
+    "id": "b3b0ca3d-0807-465a-ab84-5f3f2ae9a5db",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "bb3a4eaa-d686-4b1f-a6cd-8093935d4ffa",
+    "text": "Bonjour Suivant le décompte transmis par vos soins le reste à charge est de 334 dhs et non 712 dhs: Sachant que si l’ensemble des actes sont à caractère ambulatoire, le remboursement de la compagnie contractuelle est plafonné à 60% du TNR. Cordialement",
+    "metadata": {}
+  },
+  {
+    "id": "df51772b-39ca-40d1-ac50-1e3999b2bb74",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "1fb42f0c-4775-4daa-98d5-6bb60e1f36f3",
+    "text": "Bonjour PPR :1 Bonjour Veuillez trouver ci-joint une copie de  certificat de scolarité AVRIL 2024 pour l'enfant Rayan sousou. Merci de votre compréhension.",
+    "metadata": {}
+  },
+  {
+    "id": "723f5e6e-ba73-49b2-a677-53d637491541",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "e60bd9de-d5bb-41b4-84dc-5cfac0f29a77",
+    "text": "Bonjour PPR : 1 Bonjour ,Veuillez trouver ci-joint une copie de certificat de scolarité Avril 2025 pour l'enfant Rayan sousou. Merci de votre compréhension.",
+    "metadata": {}
+  },
+  {
+    "id": "66093abc-2656-428c-a3f4-8acbd9935a0f",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "94766d40-3bd2-43b3-819d-8a15473695a9",
+    "text": "Bonjour, Nous avons bien reçu votre demande. Cordialement.",
+    "metadata": {}
+  },
+  {
+    "id": "abb3e948-7659-4f28-9d0a-c7edc85ef425",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "445bf632-97e3-4322-a819-74b92d09aa80",
+    "text": "Bonjour, Je vous prie de bien vouloir trouver ci-attaché le certificat de scolarité de mon fils corus Rayane, ayant un handicap d'autisme. Bien cordialement",
+    "metadata": {}
+  },
+  {
+    "id": "22b8d902-4df6-49d2-82f7-e0c6cc770bb2",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "f108b8cc-08cc-4ec0-a949-efa49832a746",
+    "text": "Bonjour, Merci de nous communiquer votre PPR.",
+    "metadata": {}
+  },
+  {
+    "id": "e7f7067f-ed6e-4263-ab33-19799e1bb619",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "a917e477-7286-4d78-8797-551a0f797602",
+    "text": "Bonjour, M. dari SALEM , PPR: 2 Merci",
+    "metadata": {}
+  },
+  {
+    "id": "85585ab1-2316-4cdc-96f4-d04e689dd123",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "9c609955-1342-4e2a-ae64-72209f7e36d2",
+    "text": "merci de m envoyer la dite circulaire . cordialement",
+    "metadata": {}
+  },
+  {
+    "id": "cee41d49-87c1-4b7f-83e1-b1d3b957c684",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "1717b79d-4dcf-4b82-8be2-8fe878a8ad95",
+    "text": "Bonjour, Merci de nous communiquer votre PPR . Cordialement.",
+    "metadata": {}
+  },
+  {
+    "id": "0c3dfa35-f3a3-44d1-939f-3c755c5235a4",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "34ecd92e-84c4-45ce-a31f-cabecfd89c4d",
+    "text": "PPR :3",
+    "metadata": {}
+  },
+  {
+    "id": "40d21efa-4c9d-48f9-b474-3b5210731521",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "e049df83-d12e-4761-9436-a25a7ae3233b",
+    "text": "Bonjour, Veuillez trouver en PJ la circulaire de la ristourne(mise à jour) pour l'année 2025. Cordialement.",
+    "metadata": {}
+  },
+  {
+    "id": "81d52e78-daaa-4ad0-a7bf-4343f6ec4b2b",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "170fd4d8-000d-4265-b737-79290530309f",
+    "text": "Bonjour,\n\nJe vous informe que j'ai essayé depuis hier plusieurs fois pour accéder à la plateforme pour insérer l'attestation des intérêts, sans aucun résultats.\n\nJe porte à votre connaissance que j'ai essayé sur tous les navigateurs evec des PCs différents et également sur l'application mobile.\n\nPrière de me diriger vers la solution adéquate à ce problème.\n\nFouad MASA\nPPR: 4\n\nCordialement",
+    "metadata": {}
+  },
+  {
+    "id": "ba696866-a999-4c24-be09-25a6da39e01e",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "2d1367e2-5082-446b-9cf1-47d7ba2816b7",
+    "text": "Bonjour,\n\nMerci de nous envoyer une capture d'écran du problème.\n\nCordialement.",
+    "metadata": {}
+  },
+  {
+    "id": "4b1a4386-8150-442f-838c-34d6e2f3e25c",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "e27833a2-e789-40a1-a874-3009d74e34a9",
+    "text": "Rebonjour,\n\nCi-joint la capture d'écran du problème (Il me donne même pas l'onglet pour entrer l'identifiant et le mot de passe). Alors que sur l'application mobile après la saisie de l'identifiant et du mot de passe il affiche le message \"erreur technique\".\n\nCordialement.",
+    "metadata": {}
+  },
+  {
+    "id": "fd5befd6-4338-4404-a593-f1a73420f37c",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "a7f8fa2f-6807-429f-a823-4a50bab8be38",
+    "text": "Bonjour,\n\nPrière de changer le navigateur (Google chrome) ou d'accéder via votre PC personnel.\n\nCordialement.",
+    "metadata": {}
+  },
+  {
+    "id": "aee6244f-721d-4b4d-83bb-a51b1753976c",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "bb012cae-b8ff-4129-a959-353f88cdf74e",
+    "text": "Bonjour\nJ'ai essayer tous les navigateurs et sur PC fixe et portable, toujours le même problème.\n\nCordialement",
+    "metadata": {}
+  },
+  {
+    "id": "73f2e88b-0583-4724-a1b4-94282039fedf",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "0368ce53-cd46-4382-8412-6ba2cc6942b8",
+    "text": "Bonjour Un test de récupération du mot de passe a été effectué avec succès. Merci de vérifier s’il n’y a pas d’espace lors de la saisie. Cordialement.",
+    "metadata": {}
+  },
+  {
+    "id": "ec2992ca-4a40-48d1-a83d-38ccaa040bf3",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "11e954d8-bb36-4d15-bb3f-95f992eaac8e",
+    "text": "Bonjour,\n\nJe vous informe que j’ai essayé par deux PCs personnels avec des systèmes différents ( windows et ios) et aussi à un poste bureau, tout en utilisant les différents navigateurs ( chrome, mozila et internet explorer) sans aucun résultat.\n\nPrière de me confirmer la disponibilité de la plateforme et  m’indiquer les solutions possibles.\n\nCordialement",
+    "metadata": {}
+  },
+  {
+    "id": "02b09725-46a0-4b6d-8e4e-76a5bccd917f",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "87bb810f-a2fa-421e-a472-13fb3ef47f6b",
+    "text": "Bonjour,\n\nLe site ne s’ouvre pas. J’arrive même pas à l’étape de saisir les données.\n\nCordialement",
+    "metadata": {}
+  },
+  {
+    "id": "b86d0fc4-b460-411c-a946-1f73daec588d",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "0256bb15-c03b-43f6-8605-31ba6276e952",
+    "text": "Bonjour,\n\nLe site ne s’ouvre pas. J’arrive même pas à l’étape de saisir les données.\nsur les PCs le message en pièce joint s'affiche. Sur l'application bancaire le message \"erreur technique\" s'affiche.\nPrière de me règler ce problème.\n\nCordialement Bonjour,\n\nJe vous informe que je suis Agent comptable à l’étranger, et j'ai consulté des collègues à l'étranger, votre sytsème ça marche pas à l'étranger.\nPrière de régler cette anomalie pour nous permettre de bénéficier des services de la Fondation.\n\nCordialement",
+    "metadata": {}
+  },
+  {
+    "id": "6e6470b0-d4cd-47c5-8a0c-005e527dd438",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "a5393ce9-6a45-416f-b35b-22330c50ed5e",
+    "text": "Bonjour, Merci de transmettre cette requête à la DPS afin d’examiner la possibilité, pour l’adhérent concerné, d’envoyer son dossier de mise à jour par mail, compte tenu de ce cas particulier. Cordialement.",
+    "metadata": {}
+  },
+  {
+    "id": "1f811ac5-da30-4379-aba4-518eba620b47",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "898463cb-b0f0-4475-b553-122b319f47b6",
+    "text": "Bonjour Monsieur, Nous confirmons à nouveau qu’il n’y a aucun problème technique au niveau du portail ou de l’application mobile. Nous vous invitons à charger un collègue résidant au Maroc d’effectuer la mise à jour de votre dossier de ristourne à votre place et vous pourriez réinitialiser votre mot de passe par la  suite. Cordialement.",
+    "metadata": {}
+  },
+  {
+    "id": "2aaebd66-83f3-4c00-89ac-1349df8160ff",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "a5ff9c4c-f056-4841-a24e-bffedb383019",
+    "text": "Bonjour,\n\nJe ne connais personne qui peut faire cette opération à ma place.\nJe vous envoie l'attestation des intérêts pour l'insérer si possible.\n\nCordialement Bonjour Monsieur, Nous sommes navrés de vous informer que nous ne pouvons effectuer la mise à jour de votre dossier de mise à jour à votre place. Le portail et l’application mobiles sont des plateformes autonomes qui offrent à chaque adhérent un espace personnel sécurisé pour gérer ses demandes de prestations sociales fournies par la FOS. Par ailleurs, nous vous rappelons que la prestation de la Ristourne est disponible jusqu’au 31/12/2025. Passé cette date, votre droit de bénéfice de la ristourne au titre de 2024  sera soumis à la prescription annuelle prévue par la circulaire régissant cette prestation. Cordialement. Bonjour Monsieur, Nous sommes navrés de vous informer que nous ne pouvons effectuer la mise à jour de votre dossier de mise à jour à votre place. Le portail et l’application mobiles sont des plateformes autonomes qui offrent à chaque adhérent un espace personnel sécurisé pour gérer ses demandes de prestations sociales fournies par la FOS. Par ailleurs, nous vous rappelons que la prestation de la Ristourne est disponible jusqu’au 31/12/2025. Passé cette date, votre droit de bénéfice de la ristourne au titre de 2024  sera soumis à la prescription annuelle prévue par la circulaire régissant cette prestation. Cordialement. Bonjour, Veuillez trouvez le retour de l'adhérent avec l'historique des réponses de la DPPL. Bonjour, Conformément à la politique de sécurité de la Fondation, l'accès aux services en ligne est restreint depuis l'étranger. Cordialement Bonjour, Conformément à la politique de sécurité de la Fondation, l'accès aux services en ligne est restreint depuis l'étranger. Cordialement Bonjour,\n\nEn tant qu'adhérant qui travaille à l'étranger, j'ai le plein droit de demander à la fondation de nous proposer une alternative pour éviter la prescription de la demande. A défaut de cette mesure, toute prescription fera l'objet d'une contestation fondée de ma part.\n\nCordialement Bonjour Si Hicham, Faisant suite au retour de l’adhérent, merci de lui proposer une alternative afin qu’il puisse accèder au portail ou à l’application mobile. Cordialement. Bonjour, Prière de trouver ci-dessous notre réponse communiqué à l’adhérent. Par contre nous proposons, sauf meilleur avis, l’envoi de son dossier sur  pour prise en charge par le service métier. Cordialement Bonjour, Bien reçu merci pour votre partage. Par ailleurs, comme échangé avec M Boukri, le CRA pourra contacter l’adhérent via (contact), pour lui proposer son autorisation officielle pour prendre en charge exceptionnellement sa requête . Cordialement",
+    "metadata": {}
+  },
+  {
+    "id": "43a3722a-cb6d-41ff-bc0e-00ae87830cc2",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "b34339de-f9da-4b6c-a03a-23ad50239771",
+    "text": "achid Trésorerie Générale du Royaume DDP : 1 GSM : 0 Bonjour Monsieur le Directeur de la Fondation des œuvres sociales, Je vous écris pour vous demander le remboursement de la réduction concernant la carte à navette auprès de l'ONCF que j'ai achetée( abonnement) pour le trajet de Bouznika à Rabat Ville pour une période de 3 mois. Je joins à cette demande les informations suivantes : - La facture pour une période de validité : du 16/04/2025 au 15/07/2025 PPR : 2 Je vous remercie d'avance pour votre traitement de cette demande. Cordialement, Ouafa Bonjour, Suite à la publication de la liste des bénéficiaires au centre d'estivage, j'ai râté le jour de la réservation vu des conditions familiales et j'étais pas au courant.. Est ce qu'il y a une possibilité de faire la réservation ? Cordialement السلام عليكم بخصوص الاسفادة من الدعم المدرسي للحاصلين على شهادة الباكالوريا اود ان استفيد من هده الخدمة لابنتي شكرا Objet : Correction d'une erreur dans le formulaire d'inscription Madame, Monsieur, Je souhaite vous informer qu'une erreur s’est glissée lors de mon inscription au concours des techniciens spécialisés en topographie. J’ai indiqué par erreur EST Casablanca comme établissement de formation, alors que j’ai en réalité obtenu mon diplôme de technicien spécialisé à l’ISTA Casablanca. Je vous prie de bien vouloir prendre en considération cette correction. Je reste à votre disposition pour tout document justificatif complémentaire. Veuillez agréer, Madame, Monsieur, l’expression de mes salutations distinguées. Fadma CIN :B Tél : 064 Bonjour, Je me permets de vous contacter dans le cadre de l’estivage 2025, pour lequel j’ai eu l’honneur d’être retenue dans la catégorie « Remboursement des factures 2025». Afin de préparer mon séjour dans les meilleures conditions et conformément aux modalités prévues, je souhaiterais obtenir des éclaircissements sur les points suivants : 1.      Est-il possible de présenter plusieurs factures correspondant à des séjours effectués dans des établissements différents (par exemple, 5 jours dans un établissement et 2 jours dans un autre), à condition que la durée totale ne dépasse pas les 7 jours prévus ? 2.      Dans le cas où la facture présenterait une durée de séjour supérieure à 7 jours, la Fondation l’acceptera-t-elle et procédera-t-elle au remboursement dans la limite des 7 jours prévus dans le cadre du programme d’estivage ? 3.      Enfin, l’annonce fait référence à une « facture ou reçu de paiement ». Ainsi, je souhaiterais savoir si, dans le cas d’une réservation effectuée via une plateforme telle que Booking, un reçu de paiement est suffisant pour justifier le séjour — notamment dans le cas de la location d’un appartement, où il n’est pas systématiquement délivré de facture au sens classique du terme, contrairement à un hôtel qui fournit généralement une facture nominative. Je vous remercie par avance pour votre retour. Très cordialement, Asmae Bonjour Fos-Mef J’aimerais bien faire une réclamation au sujet de ma réservation pour la période d’estivage d’abord, comme j’ai bénéficier une seule fois de vos prestations pour l’été, c’était en 2019 et j’ai pu avoir un appartement au centre cabo negro, après cette période, j’ai demandé pour un remboursement facture été mais en vain. Cette année, je me suis dit d’essayer à nouveau, déjà la circulaire demeure floue quant au score des différents critère, et j’ai été surprise de voir que y a un score minimum pour chaque centre et qui est très élevé, au moins si nous étions informé de la manière avec laquelle vous calculez les scores, on aurait pu choisir les centres dont vous n’exigez pas des scores minimum trop élevés ; Secondo, avec cette manière de procéder, j’ai tenté la période hors estivage, sachant que seule la période du 16 au 21 qui a été disponible sur le site de hacienda à el jadida, Je me déplace, j’engage des frais gasoil, énergie, temps, autoroute, une famille et à ma grande surprise, la piscine est non fonctionnelle et non prévue d’être fonctionnelle courant ces 5 nuités, à quoi bon d’engager un tel effort, à quoi bon de publier des circulaires si le mot estivage qui y figure, renvoie plutôt à une simple résidence, où pouvoir passer 5 nuités, je suis fatalement déçue et ayant demandé à plusieurs fois à la personne en charge sur place, il m’a exprimé son malheur aussi, et que seul le syndic de la résidence décide quand régler ce problème. Je pense que le minimum requis est d’informer les gens, que ces piscine sont non fonctionnelles durant les différents périodes de l’année afin de ne plus confondre estivage avec une résidence. Je pense ne plus avoir recourir à vos prestations d’estivage comme le mot d’ordre est la déception !:!! Bien cordialement Madame, Monsieur, Nous sommes l’Université Privée de Fès (UPF) et nous collaborons déjà avec plusieurs associations et œuvres sociales d’établissements publics au Maroc. Grâce à ces partenariats, les enfants de leurs membres bénéficient d’une réduction pouvant aller jusqu’à 20 % sur les frais de scolarité. À ce titre, je vous contacte pour envisager un partenariat similaire avec votre association. En effet, plusieurs enfants d’agents de votre ministère poursuivent actuellement leurs études à l’UPF, et règlent l’intégralité de leurs frais de scolarité. Nous serions heureux de mettre en place une convention permettant à ces familles de profiter d’une réduction, semblable à celles déjà offertes dans le cadre de nos collaborations existantes. Je me tiens à votre disposition pour évoquer plus en détail cette proposition, et vous remercie par avance pour votre attention. Cordialement,",
+    "metadata": {}
+  },
+  {
+    "id": "4440b617-4092-4061-8ffe-108363dc74d2",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "9c9d0727-2b6b-433c-acf4-b7e5c5d64d34",
+    "text": "Bonjour, j'ai soumis une demande de prêt personnel il y a 15 jours mais je n'ai toujours pas reçu de réponse. Le statut sur le portail reste 'en cours d'instruction'. Pouvez-vous me donner une estimation du délai de traitement ?",
+    "metadata": {}
+  },
+  {
+    "id": "b9f2371e-0546-465a-990b-2734fc09916a",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "b63122e9-1494-4796-aea2-9096aa97621e",
+    "text": "Bonjour, nous accusons réception de votre demande. Pour suivre votre dossier, veuillez nous communiquer votre numéro PPR. Nous traitons votre demande dans les meilleurs délais.",
+    "metadata": {}
+  },
+  {
+    "id": "40493ca2-2072-4ecf-9d37-cd6fc5c078f6",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "cce679e6-6a23-440f-b04b-37868d0fb36f",
+    "text": "السلام عليكم، أنا حاولت أدخل للبوابة الإلكترونية لكن كيطلع ليا erreur 404 كل مرة. شناه الحل لأن محتاج نقدّم طلب استرداد مصاريف طبية مستعجل؟",
+    "metadata": {}
+  },
+  {
+    "id": "1b938a05-91b6-4d56-8855-6e9e53b4e1e4",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "36862540-7b84-4cc0-901c-65c1cf8887b1",
+    "text": "وعليكم السلام، نعتذر للإزعاج. يرجى محاولة مسح ذاكرة التخزين المؤقت للمتصفح أو استخدام تطبيق الهاتف. إذا استمرت المشكلة، قدم رقم هاتفك للاتصال بك.",
+    "metadata": {}
+  },
+  {
+    "id": "88da7c08-4106-4269-b8d0-e9ebe7f2db52",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "f68ee403-62b0-4f92-8615-784de71db78e",
+    "text": "Je viens de recevoir le virement pour mon remboursement CNOPS mais le montant est inférieur de 300 DH à ce qui était indiqué dans l'avis. Comment puis-je réclamer le solde ?",
+    "metadata": {}
+  },
+  {
+    "id": "8391e7ef-1890-4ca1-a984-8c784b3b6c21",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "50999dbf-08bb-4c2e-9da5-e0d8dca5c509",
+    "text": "Bonjour, veuillez nous transmettre une copie de l'avis de remboursement et du relevé bancaire par message privé. Nous ouvrons un dossier de réclamation.",
+    "metadata": {}
+  },
+  {
+    "id": "da2c936d-8bb1-48ac-b5dd-2aeb3996b0ce",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "52db4a14-aebf-4fc3-9be0-e926c3b17999",
+    "text": "بغيت نقدّم طلب تخييم لأولادي الصغار ولكن كنلقى الإعلان مازال مامفتوحش. متى غادي يبدا التسجيل للتخييم الصيفي 2025؟",
+    "metadata": {}
+  },
+  {
+    "id": "c681d68b-e90e-448a-8f1e-9560754aefcf",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "436c4023-6e38-41d9-abf4-1c80c5b25503",
+    "text": "مرحبا، التسجيلات للتخييم الصيفي 2025 ستبدأ ابتداء من 15 أبريل 2025. سيتم الإعلان على البوابة ووسائل التواصل الاجتماعير.",
+    "metadata": {}
+  },
+  {
+    "id": "3de96d9e-4547-43c4-b18f-d56d7b1cf047",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "97c45702-9705-400a-8aeb-f6ace4475e50",
+    "text": "Mon fils est en situation de handicap et nécessite un certificat de scolarité adapté pour avril 2024. Qui dois-je contacter pour avoir un document spécifique ?",
+    "metadata": {}
+  },
+  {
+    "id": "eedc1af2-9440-417f-9a35-1c648bfd0845",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "f154ee3c-a881-4a7c-b5ba-92af8e53e686",
+    "text": "Bonjour, veuillez contacter le service médico-social au 05 22 45 78 90 ou par email médical@institution.ma. Pensez à fournir le PPR de votre fils.",
+    "metadata": {}
+  },
+  {
+    "id": "8dac4229-13db-4179-a8b7-bf50b50e898f",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "6694c0b5-2428-4cdb-8383-c5064a3b05d1",
+    "text": "عندي مشكل في التسجيل في AMO، لأن رقم التعريف الوطني كيطلع غير صحيح مع أنني دخلتو صح. ممكن المساعدة؟",
+    "metadata": {}
+  },
+  {
+    "id": "82307b8a-c5ec-46ea-a239-dfe8191bf08a",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "7ab8922c-4fc1-4166-b89d-1d3b7ce401ab",
+    "text": "نحن في الخدمة. يرجى التأكد من إدخال الرقم دون أي مسافات أو أحرف. إذا استمر المشكل، اتصل بنا على 080 100 20 00.",
+    "metadata": {}
+  },
+  {
+    "id": "7d48743c-7ee6-4e57-95e3-60fff7d6dc63",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "7ae4d63a-851c-4b4c-80ea-dca992543194",
+    "text": "J'ai été débité deux fois pour la même cotisation mensuelle. Comment puis-je me faire rembourser ce prélèvement en double ?",
+    "metadata": {}
+  },
+  {
+    "id": "b11d39d8-f84f-434c-8551-b1dce559d0c7",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "8d224b71-429b-404e-875d-ef1057344e0d",
+    "text": "Veuillez nous envoyer une capture d'écran des deux prélèvements avec les dates et références. Nous traitons l'incident sous 48h.",
+    "metadata": {}
+  },
+  {
+    "id": "fd7ffb04-d745-42c0-9aa3-052aff219ce1",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "20bb7709-a916-4197-9786-f603cf9cdb30",
+    "text": "السلام عليكم، أنا مقيم بالخارج وعندي مشكل في الوصول لخدمات البوابة من أوروبا. كتقول 'غير مصرح بالدخول من منطقة جغرافيتك'. شنو الحل؟",
+    "metadata": {}
+  },
+  {
+    "id": "a0bd26ed-9146-4927-8024-f7b98f449515",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "367cbf4a-a3d4-43e1-b457-72b1b62def4e",
+    "text": "وعليكم السلام، يمكنك استخدام VPN أو الاتصال بنا على +212 5 22 45 78 91 لتفعيل الوصول من الخارج. نأسف للإزعاج.",
+    "metadata": {}
+  },
+  {
+    "id": "85c02511-665c-4acb-93a0-ff6d112442fe",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "e3859f6d-63cc-42ab-9e2c-043cdd7d9a4b",
+    "text": "Je souhaite modifier la date de début de mon prêt immobilier prévue initialement au 15 mai 2024. Est-ce possible de la reporter au 1er juillet 2024 ?",
+    "metadata": {}
+  },
+  {
+    "id": "905e0ed9-2f3a-4d25-86b3-16da0ffd16d1",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "ca568f9f-b66a-4c9f-9651-d28d4d61bcb2",
+    "text": "Oui, c'est possible sous réserve d'acceptation. Veuillez formuler votre demande par écrit via le portail avec le motif du report.",
+    "metadata": {}
+  },
+  {
+    "id": "2eb995c4-701a-43a5-9827-3adc9c8fabd2",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "63c581b8-9904-4a5c-a9db-168b5cb2fcf2",
+    "text": "ماشي كاين لا تطبيق ولا البوابة كاتفتح عندي. جربت من الهاتف والحاسوب ولا شيء. هاد المشكل من عندكم ولا من عندي؟",
+    "metadata": {}
+  },
+  {
+    "id": "27e470ac-b33a-4e4f-8cb8-30b1f303d2d7",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "2be36572-4545-41d6-a1bd-8501f6c43cab",
+    "text": "نحن نعمل على حل عطل فني مؤقت. يرجى المحاولة بعد ساعة أو الاتصال على 080 100 20 00 للاستعجال. نعتذر للإزعاج.",
+    "metadata": {}
+  },
+  {
+    "id": "805b25bb-06a9-4e3c-bfdb-5c7688d27062",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "4ca197ed-fd05-43b4-bf31-a408f385c3ca",
+    "text": "J'ai reçu un avis de rejet pour ma demande de mutuelle complémentaire sans explication. Comment puis-je savoir les motifs et faire appel ?",
+    "metadata": {}
+  },
+  {
+    "id": "6525f16e-6242-48ac-96e6-cb4631485c7a",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "0068b495-9041-4a38-82ff-654cf973305f",
+    "text": "Veuillez nous communiquer votre référence PPR. Nous vous enverrons le détail des motifs et la procédure de recours.",
+    "metadata": {}
+  },
+  {
+    "id": "329ff4db-8f72-4d08-9a99-98d57549d207",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "57057b8e-0ab0-47e6-bd90-87ed69462ea4",
+    "text": "بغيت نغير رقم الهاتف المسجل في الملف ديالي لأن فقدت الخط القديم. كيفاش نقدر نفعّل ذلك؟",
+    "metadata": {}
+  },
+  {
+    "id": "fb3dd27a-e1f0-404f-8b6c-210f5fc33b38",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "2426a687-e4bc-4b02-b3b0-51f587d65925",
+    "text": "يمكنك تغيير رقم الهاتف من قسم 'معلوماتي الشخصية' في البوابة أو بإرسال بطاقة التعريف ورقم الهاتف الجديد عبر رسالة.",
+    "metadata": {}
+  },
+  {
+    "id": "250b9caa-b2d5-4027-bc19-be9d4a1e08c8",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "3e73456b-b251-4e1d-8bef-5a323f99e2e3",
+    "text": "Le médecin de mon fils a prescrit des séances de kiné mais la Mutuelle n'a remboursé que 50%. Pourtant c'était convenu à 100% dans mon contrat.",
+    "metadata": {}
+  },
+  {
+    "id": "c32d6455-4de8-4fd0-b7a6-7966a6d4201e",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "a5955c82-175f-48de-8982-27b6f066a6e2",
+    "text": "Veuillez nous transmettre l'ordonnance, les factures et la notification de remboursement. Nous vérifions votre couverture.",
+    "metadata": {}
+  },
+  {
+    "id": "79fd8d23-43ee-463e-9b8c-2b23d31d4a52",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "87a63e58-27fb-4df2-965f-857015293ffb",
+    "text": "كيفاش نقدر نستخرج شهادة الانقطاع عن العمل من غير ما نمشي للوكالة؟ لأنني ساكن بعيد.",
+    "metadata": {}
+  },
+  {
+    "id": "aee3f79e-6bd0-4abe-a186-128c68788ef4",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "eb8d3160-71d5-4e47-8c16-1d96d0151193",
+    "text": "يمكنك طلب شهادة الانقطاع عن العمل مباشرة من البوابة الإلكترونية في قسم 'الوثائق'. ستصل إليك بالبريد الإلكتروني في 24 ساعة.",
+    "metadata": {}
+  },
+  {
+    "id": "e5316e2f-214f-47e3-8648-a3d97d6515f2",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "b84782a5-2758-4fd2-a907-ba4fde1c6bca",
+    "text": "Je pars en retraite le 30 juin 2024. Quelles sont les démarches à effectuer pour assurer la continuité de ma couverture santé ?",
+    "metadata": {}
+  },
+  {
+    "id": "ed475f96-26ff-4345-b57c-08bb0454865b",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "b116f69c-eb8b-4a74-9675-d11adb2d97ca",
+    "text": "Félicitations ! Veuillez contacter le service retraite au 05 22 45 79 00 avec votre carte d'identité. Un guide vous sera envoyé.",
+    "metadata": {}
+  },
+  {
+    "id": "6994a436-aeaa-41d0-96e9-effa141d68c4",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "ae972420-f098-411d-9d2d-1f42e00e6906",
+    "text": "عندي طلب استرداد مصاريف طبية قديم من 2023 مازال ماحلّوش. كلما اتصلت كيقولوا 'تحت الدراسة'. هادشي عادي؟",
+    "metadata": {}
+  },
+  {
+    "id": "69ca199a-3afc-4dd2-94b2-db1e817aa809",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "5dc91dd7-5954-4ead-86e7-680282f9d736",
+    "text": "لا، هذا التأخير غير عادي. يرجى إرسال رقم الملف PPR وسنقوم بالمتابعة المستعجلة مع قسم التعويضات.",
+    "metadata": {}
+  },
+  {
+    "id": "e4496962-ca6d-4d89-94f8-b868c912d43e",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "2ed3afe7-9070-4b3f-812b-a90aa1f4e5ca",
+    "text": "J'ai reçu un email suspect demandant mon mot de passe. Est-ce une tentative de phishing ou c'est bien votre service ?",
+    "metadata": {}
+  },
+  {
+    "id": "4f7cd3f0-39de-40e9-9015-105be7beeb97",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "ebf674ed-292f-49fe-a5ac-e071d4920bd6",
+    "text": "Nous ne demandons jamais les mots de passe par email. Supprimez le message et signalez-le à sécurité@institution.ma. Merci de votre vigilance.",
+    "metadata": {}
+  },
+  {
+    "id": "e0ffc1ed-f987-47b7-8549-da48773a8b7e",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "21d2e7c6-3fee-446e-9745-edbca5465ca4",
+    "text": "كيفاش نقدر نزيد المبلغ ديال القرض السكني من 300000 إلى 400000 درهم؟ وشروط التغيير؟",
+    "metadata": {}
+  },
+  {
+    "id": "a4c9c2e1-6d2d-4da0-8a20-c906c78218c7",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "1ba454f8-c315-4a6f-b1fc-28e5acb260b4",
+    "text": "يمكنك تقديم طلب زيادة عبر البوابة مع تبرير الطلب ووثائق الدخل المحدثة. القبول خاضع للشروط والدراسة.",
+    "metadata": {}
+  },
+  {
+    "id": "09d3f8fa-1a9a-4a62-b462-54c3ae5a8b11",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "0dfecac0-395e-498e-a003-7e7c50ef8151",
+    "text": "Ma carte de tiers payant n'est pas acceptée à la pharmacie depuis 3 jours. Le pharmacien dit que ma carte est bloquée. Pourquoi ?",
+    "metadata": {}
+  },
+  {
+    "id": "e07ae38b-88bb-472a-85ad-523b0f153580",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "39d21954-9c06-43ee-98d5-0911fc55d5ef",
+    "text": "Vérifiez que vos cotisations sont à jour. Sinon, contactez le service adhérents au 05 22 45 78 92 avec votre numéro d'affiliation.",
+    "metadata": {}
+  },
+  {
+    "id": "83944ad9-2227-439b-8e22-70091cf8a390",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "49ab3cf2-c635-44db-824d-902471da22af",
+    "text": "خسرة رمز الدخول للبوابة. كيفاش نقدر نستعيدو؟ وجربت 'نسيت كلمة المرور' ولكن ماوصلنيش أي إيميل.",
+    "metadata": {}
+  },
+  {
+    "id": "76c80088-a0e4-4b76-b5ba-37139cc5d562",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "b0160ea4-c52a-40e5-b5dc-4d7f697fb064",
+    "text": "تفقد صندوق البريد المزعج. إذا لم تجد الرسالة، اتصل بالدعم على 080 100 20 00 للتحقق من بريدك الإلكتروني المسجل.",
+    "metadata": {}
+  },
+  {
+    "id": "635eb2e8-afb9-4504-afad-4bea276b3945",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "239e4cbe-6970-4dcc-aace-4beaef9096b3",
+    "text": "Je cherche le formulaire de demande d'aide financière exceptionnelle pour cas de force majeure. Où puis-je le télécharger ?",
+    "metadata": {}
+  },
+  {
+    "id": "4f546d3a-f47d-40af-a71c-79bf36e03ce8",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "14f49abc-5e72-4844-85ff-ac58332880e2",
+    "text": "Le formulaire est disponible dans l'espace adhérent > Mes démarches > Aides exceptionnelles. Nous restons à votre disposition.",
+    "metadata": {}
+  },
+  {
+    "id": "a6a1dde4-d104-4e69-a87c-f846596313ed",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "ec7ebcb2-da94-400b-97fd-9bad97433298",
+    "text": "ولدتي مسجلة عندكم ولكن ماقداش تستفيد من الخدمات لأن الرقم الوطني فيها غير صحيح. كيفاش نصحح هذه المعلومة؟",
+    "metadata": {}
+  },
+  {
+    "id": "02dd80f3-ae3b-436c-b3d7-0cf016462ed3",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "3935e302-09a6-4a0b-a273-68ac770141a0",
+    "text": "يجب تقديم نسخة من بطاقة التعاقة الوطنية مصححة عبر البوابة أو في الوكالة. نعتذر للإزعاج.",
+    "metadata": {}
+  },
+  {
+    "id": "0b17f06c-7d6d-4922-8e8e-199abda92937",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "55af1929-0ecc-4b8b-8798-1ee188003f0f",
+    "text": "J'ai besoin d'une attestation de partenariat pour répondre à un appel d'offres. Le délai est très court. Pouvez-vous m'aider ?",
+    "metadata": {}
+  },
+  {
+    "id": "977326ba-2c87-43f5-b318-42672f1bfb42",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "c3b0c974-b155-4fad-9765-75b7f1be5e97",
+    "text": "Veuillez envoyer votre demande officielle sur papier entêté à partenariat@institution.ma. Nous traitons en urgence sous 48h.",
+    "metadata": {}
+  },
+  {
+    "id": "e5df8797-9643-4692-a157-06f8b375a6ed",
+    "source": "qa_dataset",
+    "type": "question",
+    "language": "unknown",
+    "chunk_id": "44a920e0-3a9c-4493-81d9-bc31c9b031fe",
+    "text": "المرجو إعلامي إن كان بإمكاني دفع الاشتراك الشهري عبر تحويل بنكي عادي بدل الخصم الآلي. وشكرا.",
+    "metadata": {}
+  },
+  {
+    "id": "fc56b29f-0ddb-430c-a708-dd2c23f053da",
+    "source": "qa_dataset",
+    "type": "response",
+    "language": "unknown",
+    "chunk_id": "51fce6e8-3796-414e-bed4-35964319a2a9",
+    "text": "نعم ممكن، لكن يجب إدخال رقم العضوية في بيان التحويل وإرسال نسخة من التحويل كل شهر. نوصي بالخصم الآلي لتجنب النسيان.",
+    "metadata": {}
+  }
+]

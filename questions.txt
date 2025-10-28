@@ -1,0 +1,60 @@
+Quel est le numéro de compte associé au crédit logement mentionné dans l’attestation CREDIT AGRICOLE AKNOUL 106 ?
+Quelle est la date exacte du paiement de 2800.00 MAD dans le dossier 906377038 ?
+Combien de jours a pris le traitement du dossier CNOPS 906377038 ?
+Quelle est la référence du virement effectué le 17/02/2028 pour un montant de 2800.00 MAD ?
+Quel était le montant remboursé par l’AMO dans le décompte Sanlam étudié ?
+Quel était le montant exact pris en charge par la Mutuelle dans ce même décompte ?
+Quelle est la date de création du dossier CNOPS n°906377038 ?
+Dans quel document apparaît le montant de 262 500 DHS ?
+Quel est l’organisme émetteur du dossier CNOPS contenant l’anomalie de dates ?
+Quelle est la durée de remboursement du prêt logement mentionné (en mois) ?
+Quelle est la date de naissance de l’élève dans le certificat émis par مدرسة أحمد بوكماخ ?
+Quelle spécialité est mentionnée dans le certificat de scolarité Avril 2025 ?
+Quelle est la langue d’émission du certificat référencé 2024/2025/43 ?
+Quelle est la référence du certificat où la spécialité « Sciences Économiques et Gestion » est indiquée ?
+Quel établissement a émis le certificat contenant la mention « المستوى الثاني ابتدائي » ?
+Quel était le message d’erreur exact affiché dans l’application mobile (capture d’écran) ?
+Combien de solutions ont été proposées pour résoudre l’accès au portail depuis l’étranger ?
+Quelle alternative a finalement été proposée à l’agent comptable travaillant à l’étranger ?
+Quelle était la première plainte de l’adhérent concernant l’accès au site ?
+À quelle étape du portail l’utilisateur a indiqué qu’il n’arrivait même pas à accéder ?
+Quelles sont les deux conditions impératives mentionnées dans le formulaire de demande d’estivage ?
+Quelle est la capacité maximale des centres d’estivage selon le formulaire ?
+Quelle est la langue utilisée dans le formulaire d’estivage ?
+Qui a soumis la demande de PPR n°3 ?
+À quelle date a été envoyée la demande initiale de remboursement liée à la PPR n°3 ?
+Quel était le montant restant à charge après rectification par la CNOPS dans la demande PPR ?
+Quelle anomalie de date est signalée dans le dossier CNOPS 906377038 ?
+Quel est l’impact potentiel de cette anomalie sur le traitement du dossier ?
+Quelle était la durée exacte entre la demande initiale et la réponse concernant la PPR n°3 ?
+Qui était la personne de contact mentionnée dans l’échange pour résoudre le problème d’accès au portail depuis l’étranger ?
+ما هو رقم الحساب المرتبط بقرض السكن في شهادة CREDIT AGRICOLE AKNOUL 106؟
+ما هي تاريخ عملية الأداء بمبلغ 2800.00 درهم في الملف 906377038؟
+كم استغرق من يوم لمعالجة ملف CNOPS رقم 906377038؟
+ما هي مرجعية التحويل البنكي الذي تم في 17/02/2028 بقيمة 2800.00 درهم؟
+كم كان المبلغ الذي عوضته AMO في كشف حساب Sanlam؟
+كم كان المبلغ الذي عوضته الـ Mutuelle في نفس الكشف؟
+ما هو تاريخ إنشاء ملف CNOPS رقم 906377038؟
+في أي وثيقة يظهر مبلغ 262,500 درهم؟
+ما هي الجهة التي أصدرت ملف CNOPS الذي يحتوي على خلل في التواريخ؟
+كم هي مدة السداد الخاصة بقرض السكن المذكور (بالأشهر)؟
+ما هو تاريخ ميلاد التلميذ في الشهادة الصادرة عن مدرسة أحمد بوكماخ؟
+ما هي الشعبة المذكورة في شهادة التمدرس لشهر أبريل 2025؟
+ما هي لغة الإصدار في الشهادة ذات المرجع 2024/2025/43؟
+ما هي مرجعية الشهادة التي وردت فيها شعبة "العلوم الاقتصادية والتدبير"؟
+أي مؤسسة أصدرت الشهادة التي تحتوي على عبارة "المستوى الثاني ابتدائي"؟
+ما هي الرسالة الخطأ الظاهرة في التطبيق المحمول (حسب الصورة)؟
+كم عدد الحلول المقترحة لحل مشكل الولوج للبوابة من الخارج؟
+ما هو البديل الذي اقترح في النهاية للمحاسب العامل بالخارج؟
+ما هي أول شكوى تقدم بها المنخرط بخصوص الولوج للموقع؟
+في أي مرحلة بالضبط قال المستخدم إنه لم يتمكن حتى من الوصول إليها؟
+ما هما الشرطان الإجباريان المذكوران في استمارة طلب الاصطياف؟
+ما هي الطاقة الاستيعابية القصوى للمراكز حسب الاستمارة؟
+ما هي اللغة المستعملة في استمارة الاصطياف؟
+من الذي قدم طلب PPR رقم 3؟
+في أي تاريخ تم إرسال الطلب الأولي المتعلق بـ PPR؟
+كم كان المبلغ المتبقي على عاتق الطالب بعد تصحيح CNOPS؟
+ما هو الخلل في التواريخ المسجل في ملف CNOPS 906377038؟
+ما هو التأثير المحتمل لهذا الخلل على معالجة الملف؟
+ما هي المدة الزمنية بالضبط بين الطلب الأول والرد بخصوص PPR رقم 3؟
+من هو الشخص أو المسؤول المذكور في المراسلات لحل مشكل الولوج للبوابة من الخارج؟

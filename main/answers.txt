@@ -1,0 +1,3 @@
+Quel est le numéro de compte associé au crédit logement mentionné dans l’attestation CREDIT AGRICOLE AKNOUL 106 ?
+ERROR: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: -1)
+

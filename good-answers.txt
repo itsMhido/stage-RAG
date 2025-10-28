@@ -1,0 +1,60 @@
+Le numéro de compte indiqué est 01060150
+Aucune date de paiement explicite pour le dossier 906377038 n’est fournie dans les documents. Le document indique une date de réception 29/10/2024 et la mention "Payé en : 113 jours", mais pas de date de paiement précise.
+113 jours
+Aucune référence de virement n’est indiquée dans le document pour l’entrée du 17/02/2028 — la colonne «REFERENCE» apparaît vide pour cette ligne.
+2 608,00 MAD
+192,00 MAD
+Le document indique la date de réception du dossier comme 29/10/2024
+Dans l’attestation des intérêts émise par CREDIT AGRICOLE C.L.C.A. AKNOUL 106 (attestation crédit logement).
+L’organisme est CNOPS (Caisse Nationale des Organismes de Prévoyance Sociale)
+180 mois.
+09-10-2014
+Sciences Économiques et Gestion (1ère Année Baccalauréat).
+le certificat est rédigé en français
+2024/2025/43.
+مدرسة أحمد بوكماخ (école Ahmed Boukmakh).
+Le message affiché était «erreur technique».
+Quatre solutions distinctes sont proposées dans les échanges :transmettre la requête à la DPS pour examen (prise en charge par mail),charger un collègue résident au Maroc d’effectuer la mise à jour,envoi du dossier à contact@fos.finances.gov.ma pour prise en charge par le service métier, le CRA pourra contacter l’adhérent et proposer une autorisation officielle pour prise en charge exceptionnelle.
+Envoyer son dossier par e-mail à contact@fos.finances.gov.ma pour prise en charge par le service métier (solution proposée comme alternative).
+Que la plateforme / portail ne s’ouvre pas et qu’il n’arrive même pas à l’étape de saisir les données (accès bloqué dès l’ouverture).
+Il a indiqué qu’il n’arrivait pas à atteindre l’étape de saisie des données — c.-à-d. il n’arrive pas jusqu’au formulaire d’entrée (pas d’accès à la page de saisie).
+L’adhérent doit être à jour de ses cotisations. Il doit joindre les pièces justificatives demandées (fiche de paie, carte d’adhérent, copie du livret de famille, etc.).
+1000 bénéficiaires au total
+Français.
+Rachid
+03 janvier 2025.
+187,00 MAD.
+Une incohérence entre la date de création et la date de paiement : le paiement est enregistré en 2028 alors que le dossier est de 2024.
+Elle peut entraîner un rejet temporaire ou un blocage de remboursement dans le système CNOPS jusqu’à correction manuelle.
+8 jours.
+Mme Fadwa (référente CRA, citée comme contact direct).
+01060150.
+لم تُذكر أي تاريخ أداء محددة. الوثيقة تتضمن «تاريخ الاستلام 29/10/2024» و«تم الأداء خلال 113 يومًا»، دون تحديد تاريخ الدفع نفسه.
+113 يومًا.
+لا توجد أي مرجعية للتحويل البنكي في السطر المذكور.
+2.608,00 درهم.
+192,00 درهم.
+29/10/2024.
+في شهادة الفوائد الصادرة عن بنك القرض الفلاحي (CREDIT AGRICOLE AKNOUL 106).
+CNOPS (الصندوق الوطني لمنظمات الاحتياط الاجتماعي).
+180 شهرًا.
+09/10/2014.
+Sciences Économiques et Gestion.
+Français.
+2024/2025/43.
+مدرسة أحمد بوكماخ.
+«Le délai d’attente est dépassé – Le serveur à l’adresse efos.finances.gov.ma met trop de temps à répondre.»
+تبادل البريد الإلكتروني بين المنخرط والمؤسسة: الاتصال عبر شبكة VPN أو عبر خادم الوزارة. الحصول على ترخيص خاص مؤقت من CRA عبر البريد الإلكتروني.
+ترخيص مؤقت من CRA للسماح بالولوج إلى المنصة.
+أنه غير قادر على الدخول إلى بوابة FOS من الخارج رغم توفره على معلومات الدخول الصحيحة.
+مرحلة تسجيل الدخول الأولى (écran d’accueil).
+أن يكون المنخرط مستوفيًا لاشتراكاته. أن يُرفق الطلب بجميع الوثائق المطلوبة (بطاقة الانخراط، شهادة الأجرة، إلخ).
+1000 مستفيد.
+الفرنسية
+رشيد.
+03/01/2025.
+187,00 درهم.
+التناقض بين تاريخ الإيداع (2024) وتاريخ الأداء (2028).
+تجميد أو رفض مؤقت للدفع إلى حين التصحيح اليدوي من طرف CNOPS.
+8 أيام.
+السيدة فدوى (Mme Fadwa).
