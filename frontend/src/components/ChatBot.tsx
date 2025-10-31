@@ -4,6 +4,7 @@ import { ChatMessage } from "../types";
 import { ChatService } from "../services/chatService";
 import Message from "./Message";
 import MessageInput from "./MessageInput";
+import FileUpload from "./FileUpload";
 
 const ChatContainer = styled.div`
   display: flex;
@@ -88,10 +89,64 @@ const QuestionButton = styled.button`
   }
 `;
 
+const UploadSection = styled.div`
+  margin: 20px 0;
+  padding: 16px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+`;
+
+const SectionTitle = styled.h4`
+  margin: 0 0 12px 0;
+  color: #495057;
+  font-size: 1rem;
+  font-weight: 600;
+`;
+
+const NotificationBanner = styled.div<{ type: 'success' | 'error' }>`
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  max-width: 400px;
+  padding: 12px 16px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  animation: slideIn 0.3s ease-out;
+  
+  @keyframes slideIn {
+    from {
+      transform: translateX(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  
+  ${props => props.type === 'success' ? `
+    background-color: #d4edda;
+    color: #155724;
+    border-left: 4px solid #28a745;
+  ` : `
+    background-color: #f8d7da;
+    color: #721c24;
+    border-left: 4px solid #dc3545;
+  `}
+`;
+
 const ChatBot: React.FC = () => {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [isLoading, setIsLoading] = useState(false);
   const [isConnected, setIsConnected] = useState(false);
+  const [notification, setNotification] = useState<{
+    type: 'success' | 'error';
+    message: string;
+  } | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   const suggestedQuestions = [
@@ -191,8 +246,30 @@ const ChatBot: React.FC = () => {
     }
   };
 
+  const handleUploadStart = (filename: string) => {
+    // You could add a message to the chat here if desired
+  };
+
+  const handleUploadComplete = (message: string) => {
+    setNotification({ type: 'success', message });
+    // Auto-hide notification after 5 seconds
+    setTimeout(() => setNotification(null), 5000);
+  };
+
+  const handleUploadError = (error: string) => {
+    setNotification({ type: 'error', message: error });
+    // Auto-hide notification after 7 seconds for errors
+    setTimeout(() => setNotification(null), 7000);
+  };
+
   return (
     <ChatContainer>
+      {notification && (
+        <NotificationBanner type={notification.type}>
+          {notification.message}
+        </NotificationBanner>
+      )}
+      
       <Header>
         <Title>🤖 Assistant RAG</Title>
         <Subtitle>Questions-réponses sur les documents administratifs</Subtitle>
@@ -209,6 +286,16 @@ const ChatBot: React.FC = () => {
               Je peux répondre à vos questions sur les documents administratifs
               disponibles.
             </p>
+
+            <UploadSection>
+              <SectionTitle>📄 Ajouter de nouveaux documents</SectionTitle>
+              <FileUpload
+                onUploadStart={handleUploadStart}
+                onUploadComplete={handleUploadComplete}
+                onUploadError={handleUploadError}
+              />
+            </UploadSection>
+
             <p>Voici quelques exemples de questions:</p>
 
             <SuggestedQuestions>
