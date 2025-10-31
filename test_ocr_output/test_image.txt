@@ -1,0 +1,15 @@
+Source File: test_image.png
+File Path: /home/f1red/Desktop/INPT/Stage INE1/stage-RAG/test_ocr_files/test_image.png
+Extraction Date: 2025-10-31 02:15:06
+File Type: .PNG
+Text Length: 181 characters
+================================================================================
+
+Tes: Docunen: OCR
+Document Adm ‏د‎ strat f
+Numero 123456789
+Date 2024-01-15
+Montant 2.500 00 MAD
+Ts text sou ‏ل‎ 2e ext-acted
+oy tne OCR system and saved
+to tne oc”_"esu ‏5؟‎ fo de”
