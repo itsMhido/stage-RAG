@@ -1,0 +1,31 @@
+Source File: test_document.txt
+File Path: /home/f1red/Desktop/INPT/Stage INE1/stage-RAG/test_ocr_files/test_document.txt
+Extraction Date: 2025-10-31 02:15:37
+File Type: .TXT
+Text Length: 492 characters
+================================================================================
+
+Exemple de texte en français
+===========================
+
+Ceci est un document administratif test.
+Il contient des informations importantes pour le système RAG.
+
+Numéro de dossier: 123456789
+Date: 2024-01-15
+Montant: 1,500.00 MAD
+
+نص تجريبي باللغة العربية
+=====================
+
+هذا مستند إداري تجريبي.
+يحتوي على معلومات مهمة لنظام RAG.
+
+رقم الملف: 987654321
+التاريخ: 15-01-2024
+المبلغ: 1500.00 درهم
+
+Mixed Content:
+- French: Attestation d'intérêts
+- Arabic: شهادة الفوائد
+- Numbers: 01060150
